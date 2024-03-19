@@ -1,8 +1,8 @@
 ---
 title: 服务器信息
 description: 
-published: false
-date: 2024-03-19T15:30:11.249Z
+published: true
+date: 2024-03-19T15:31:59.964Z
 tags: locked
 editor: markdown
 dateCreated: 2024-03-19T15:22:00.007Z
