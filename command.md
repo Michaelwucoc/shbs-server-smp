@@ -2,7 +2,7 @@
 title: 服务器指令
 description: 
 published: true
-date: 2024-03-20T14:57:31.022Z
+date: 2024-03-21T05:58:53.421Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-20T14:23:28.430Z
@@ -63,4 +63,7 @@ dateCreated: 2024-03-20T14:23:28.430Z
 - 删除信任的玩家 `/res pdel <领地名称> [玩家ID]`
 	- 快速删除 `/res pdel <玩家ID>`
   你必须 *站在一个领地里* 才能使用这个命令
+---
+- 传送到领地 `/res tp <领地名称> `
+你必须拥有这个领地的**传送权限**
 
