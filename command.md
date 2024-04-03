@@ -2,7 +2,7 @@
 title: 服务器指令
 description: 
 published: true
-date: 2024-04-03T07:07:28.798Z
+date: 2024-04-03T07:12:42.685Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-20T14:23:28.430Z
@@ -23,9 +23,15 @@ dateCreated: 2024-03-20T14:23:28.430Z
 - 接受/阻止传送请求 `/tptoggle`
 ---
 - 打开末影箱 `*/enderchest`
+- 打开工作台 `*/craft`
 - 打开死亡菜单 `/grave`
 - 自杀 `/suicide`
+- 传送到高处 `*/top`
+
 # 设置传送点
-- 设置
+- 设置传送点 `/setwarp <传送点名称>`
+- 传送到传送点 `/warp <传送点名称>
+- 设置家 `/sethome [名字]`
+- 传送到家 `/home [名字]`
 
 
