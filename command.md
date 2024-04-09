@@ -2,7 +2,7 @@
 title: 服务器指令
 description: 
 published: true
-date: 2024-04-09T02:13:20.363Z
+date: 2024-04-09T02:21:04.006Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-20T14:23:28.430Z
@@ -24,9 +24,11 @@ dateCreated: 2024-03-20T14:23:28.430Z
 ---
 - 打开末影箱 `*/enderchest`
 - 打开工作台 `*/craft`
+- 打开铁砧 `*/anvil`
 - 打开死亡菜单 `/grave`
 - 自杀 `/suicide`
 - 传送到高处 `*/top`
+- 维修物品 `*/repair all`
 
 # 设置传送点
 - 设置传送点 `/setwarp <传送点名称>`
@@ -36,6 +38,8 @@ dateCreated: 2024-03-20T14:23:28.430Z
 
 # 领地指令
  - 创建领地 `/res create [领地名称]`
+ 
+ TIPS:您可以使用木锄选择区域
  - 自动创建领地 `/res auto [领地名称] [范围]`
  *如果您不填写 范围 ， 那么会自动以您的中心创建您能认领的最大的范围的领地*
  ---
