@@ -1,0 +1,1465 @@
+[00:00:25] [Server thread/INFO]: skost12 issued server command: /home home2
+[00:02:32] [Async Chat Thread - #216/INFO]: <wugemi> 船和铁路哪个快些
+[00:02:38] [Server thread/INFO]: yan_jue取得了进度[自我放逐]
+[00:02:39] [Server thread/INFO]: yan_jue被掠夺者射杀
+[00:02:42] [Server thread/INFO]: yan_jue issued server command: /back
+[00:02:50] [Async Chat Thread - #215/INFO]: <yan_jue> 铁路
+[00:03:30] [Server thread/INFO]: wengege lost connection: 连接中断
+[00:03:30] [Server thread/INFO]: wengege退出了游戏
+[00:04:05] [Async Chat Thread - #217/INFO]: <skost12> 6
+[00:04:06] [Async Chat Thread - #218/INFO]: <yan_jue> 哈哈哈哈
+[00:04:12] [Async Chat Thread - #217/INFO]: <skost12> 忘记开栅栏门了
+[00:04:25] [Async Chat Thread - #218/INFO]: <yan_jue> 笑死我了
+[00:04:33] [Async Chat Thread - #217/INFO]: <yan_jue> 和我之前一样
+[00:04:53] [Server thread/INFO]: wugemi取得了进度[附魔师]
+[00:05:36] [Server thread/INFO]: yan_jue issued server command: /res TP wodishengjian
+[00:07:29] [Async Chat Thread - #220/INFO]: <yan_jue> 我看看我能复活几次末影龙
+[00:08:34] [Async Chat Thread - #221/INFO]: <yan_jue> 我能复活三次末影龙，你们谁要打了拿成就awa
+[00:09:15] [Server thread/INFO]: yan_jue lost connection: 连接中断
+[00:09:15] [Server thread/INFO]: yan_jue退出了游戏
+[00:10:12] [User Authenticator #60/INFO]: UUID of player yan_jue is a7360380-0c6a-4c8e-b00f-c99066f6bec0
+[00:10:12] [Server thread/INFO]: yan_jue加入了游戏
+[00:10:12] [Server thread/INFO]: yan_jue[/123.190.237.47:60789] logged in with entity id 516020 at ([world]-85.9165625739982, 63.0, 76.30971600174662)
+[00:15:34] [Server thread/INFO]: skost12 issued server command: /
+[00:15:39] [Server thread/INFO]: skost12 issued server command: /res set
+[00:15:42] [Server thread/INFO]: [Residence] skost12 issued server command: /res set jidi explode true
+[00:15:49] [Server thread/INFO]: [Residence] skost12 issued server command: /res set jidi tnt true
+[00:15:51] [Server thread/INFO]: [Residence] skost12 issued server command: /res set jidi explode true
+[00:15:52] [Server thread/INFO]: [Residence] skost12 issued server command: /res set jidi explode false
+[00:19:53] [Server thread/INFO]: yan_jue issued server command: /res TP wodishengjian
+[00:20:14] [Server thread/INFO]: yan_jue lost connection: 连接中断
+[00:20:14] [Server thread/INFO]: yan_jue退出了游戏
+[00:30:07] [Server thread/INFO]: skost12 lost connection: 连接中断
+[00:30:07] [Server thread/INFO]: skost12退出了游戏
+[00:30:13] [User Authenticator #61/INFO]: UUID of player skost12 is 7988b94d-8570-4e19-8633-c63c6f142cb1
+[00:30:13] [Server thread/INFO]: skost12加入了游戏
+[00:30:13] [Server thread/INFO]: skost12[/36.21.111.4:20746] logged in with entity id 539724 at ([world]-614.5962054892043, 63.0, -996.1284763903944)
+[00:32:23] [Server thread/INFO]: skost12 issued server command: /spawn
+[00:32:23] [Server thread/WARN]: skost12 moved too quickly! 692.8118175341647,1.0,1071.5754430043758
+[00:33:46] [Server thread/INFO]: skost12 issued server command: /home home2
+[00:33:46] [Server thread/WARN]: skost12 moved too quickly! -585.1640858055443,7.5,-1068.8790246622043
+[00:34:24] [Server thread/INFO]: skost12 issued server command: /home home2
+[00:34:28] [Server thread/INFO]: skost12 issued server command: /res tp shuatieta
+[00:34:35] [Server thread/INFO]: skost12 issued server command: /res tp shuatieta
+[00:41:10] [Server thread/INFO]: wugemi lost connection: 连接中断
+[00:41:10] [Server thread/INFO]: wugemi退出了游戏
+[00:43:54] [Server thread/INFO]: skost12 issued server command: /res set
+[00:44:01] [Server thread/INFO]: [Residence] skost12 issued server command: /res set shuatieta vehicledestroy true
+[00:44:15] [Server thread/INFO]: [Residence] skost12 issued server command: /res set shuatieta flowinprotection true
+[00:44:17] [Server thread/INFO]: [Residence] skost12 issued server command: /res set shuatieta flowinprotection true
+[00:44:18] [Server thread/INFO]: [Residence] skost12 issued server command: /res set shuatieta flowinprotection false
+[00:44:19] [Server thread/INFO]: [Residence] skost12 issued server command: /res set shuatieta fly true
+[00:44:38] [Server thread/INFO]: [Residence] skost12 issued server command: /res set shuatieta falldamage true
+[00:45:09] [Server thread/INFO]: skost12 issued server command: /res set
+[00:46:13] [Server thread/INFO]: skost12 issued server command: /res set
+[00:50:29] [User Authenticator #62/INFO]: UUID of player wengege is f36d4701-b224-4392-b5dc-74d23d5d5546
+[00:50:29] [Server thread/INFO]: wengege加入了游戏
+[00:50:29] [Server thread/INFO]: wengege[/39.85.55.0:55628] logged in with entity id 547719 at ([world]-59.31719596368799, 64.5, 98.18115351754003)
+[00:50:35] [Server thread/INFO]: wengege lost connection: 连接中断
+[00:50:35] [Server thread/INFO]: wengege退出了游戏
+[00:51:37] [Server thread/INFO]: skost12被僵尸杀死了
+[00:51:40] [Server thread/INFO]: skost12 issued server command: /back
+[00:54:39] [User Authenticator #63/INFO]: UUID of player wengege is f36d4701-b224-4392-b5dc-74d23d5d5546
+[00:54:39] [Server thread/INFO]: wengege加入了游戏
+[00:54:39] [Server thread/INFO]: wengege[/39.85.55.0:55750] logged in with entity id 548561 at ([world]-59.31719596368799, 64.5, 98.18115351754003)
+[00:55:00] [Async Chat Thread - #226/INFO]: <wengege> 在哪呢
+[00:55:07] [Server thread/INFO]: wengege lost connection: 连接中断
+[00:55:07] [Server thread/INFO]: wengege退出了游戏
+[00:56:25] [Server thread/INFO]: skost12 lost connection: 连接中断
+[00:56:25] [Server thread/INFO]: skost12退出了游戏
+[00:56:40] [User Authenticator #64/INFO]: UUID of player skost12 is 7988b94d-8570-4e19-8633-c63c6f142cb1
+[00:56:40] [Server thread/INFO]: skost12加入了游戏
+[00:56:40] [Server thread/INFO]: skost12[/36.21.111.4:20543] logged in with entity id 548853 at ([world]-840.0011334899398, 90.0, -996.6557125400028)
+[00:56:47] [Server thread/INFO]: skost12被僵尸杀死了
+[00:56:50] [Server thread/INFO]: skost12 issued server command: /back
+[01:00:08] [Server thread/INFO]: skost12 issued server command: /home home2
+[01:01:23] [Server thread/INFO]: skost12 issued server command: /back
+[01:03:13] [Server thread/INFO]: skost12 issued server command: /spawn
+[01:03:13] [Server thread/WARN]: skost12 moved too quickly! 896.2024323130435,-27.0,1090.4971955371607
+[01:03:43] [Server thread/INFO]: skost12 issued server command: /back
+[01:03:43] [Server thread/WARN]: skost12 moved too quickly! -900.8876043872659,27.0,-1029.7274591103849
+[01:08:54] [Server thread/INFO]: skost12 lost connection: 连接中断
+[01:08:54] [Server thread/INFO]: skost12退出了游戏
+[07:07:07] [User Authenticator #65/INFO]: UUID of player chen_mo24 is bfd5b2ab-759c-4c67-bd38-352f29ddd2d2
+[07:07:07] [Server thread/INFO]: chen_mo24加入了游戏
+[07:07:07] [Server thread/INFO]: chen_mo24[/121.233.214.125:3005] logged in with entity id 552164 at ([world]-439.69999998807907, -21.0, 116.30000001192093)
+[07:19:47] [Server thread/INFO]: chen_mo24淹死了
+[07:20:09] [Server thread/INFO]: chen_mo24 lost connection: 连接中断
+[07:20:09] [Server thread/INFO]: chen_mo24退出了游戏
+[07:22:51] [User Authenticator #66/INFO]: UUID of player chen_mo24 is bfd5b2ab-759c-4c67-bd38-352f29ddd2d2
+[07:22:52] [Server thread/INFO]: chen_mo24加入了游戏
+[07:22:52] [Server thread/INFO]: chen_mo24[/121.233.214.125:3914] logged in with entity id 553756 at ([world]65.5, 64.0, 88.5)
+[07:56:12] [Server thread/INFO]: chen_mo24 lost connection: 连接中断
+[07:56:12] [Server thread/INFO]: chen_mo24退出了游戏
+[09:10:58] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /list 
+[09:10:58] [Server thread/INFO]: 当前有0位玩家在线，可容纳最大在线人数为10位玩家。
+[09:38:02] [User Authenticator #67/INFO]: UUID of player yan_jue is a7360380-0c6a-4c8e-b00f-c99066f6bec0
+[09:38:02] [Server thread/INFO]: yan_jue加入了游戏
+[09:38:02] [Server thread/INFO]: yan_jue[/123.190.237.47:61250] logged in with entity id 561847 at ([world]-36.64013207784526, 101.0, 110.43539857824113)
+[09:41:09] [User Authenticator #68/INFO]: UUID of player wengege is f36d4701-b224-4392-b5dc-74d23d5d5546
+[09:41:09] [Server thread/INFO]: wengege加入了游戏
+[09:41:09] [Server thread/INFO]: wengege[/39.85.55.0:56292] logged in with entity id 562384 at ([world]-47.020667937040656, 65.0, 102.14039364393844)
+[09:41:17] [Server thread/INFO]: wengege lost connection: 连接中断
+[09:41:17] [Server thread/INFO]: wengege退出了游戏
+[09:50:45] [Server thread/INFO]: yan_jue lost connection: 连接中断
+[09:50:45] [Server thread/INFO]: yan_jue退出了游戏
+[10:50:06] [User Authenticator #69/INFO]: UUID of player wugemi is 43df6199-2f49-40f1-bfb1-036396d2992b
+[10:50:06] [Server thread/INFO]: wugemi加入了游戏
+[10:50:06] [Server thread/INFO]: wugemi[/111.18.176.104:7939] logged in with entity id 563391 at ([world]-31.973456125567328, 69.0, -385.0147580767326)
+[10:58:03] [Server thread/INFO]: wugemi issued server command: /res tp shuatieji
+[10:58:41] [Server thread/INFO]: wugemi issued server command: /res tp shuatieji
+[10:59:09] [Server thread/INFO]: wugemi issued server command: /res tp shuatiejiqi
+[11:07:58] [Server thread/INFO]: wugemi被苦力怕炸死了
+[11:08:06] [Server thread/INFO]: wugemi issued server command: /back
+[11:08:39] [Server thread/INFO]: wugemi从高处摔了下来
+[11:08:46] [Server thread/INFO]: wugemi issued server command: /back
+[11:21:32] [Server thread/INFO]: wugemi完成了挑战[它蔓延了]
+[11:31:12] [Server thread/INFO]: wugemi取得了进度[冰桶挑战]
+[11:36:33] [Server thread/INFO]: wugemi试图在熔岩里游泳
+[11:46:38] [User Authenticator #70/INFO]: UUID of player wengege is f36d4701-b224-4392-b5dc-74d23d5d5546
+[11:46:38] [Server thread/INFO]: wengege加入了游戏
+[11:46:38] [Server thread/INFO]: wengege[/39.85.55.0:63845] logged in with entity id 573468 at ([world]-54.50691991331729, 64.5, 98.07658573008311)
+[11:49:59] [Server thread/INFO]: wengege lost connection: 连接中断
+[11:49:59] [Server thread/INFO]: wengege退出了游戏
+[11:54:05] [Server thread/INFO]: wugemi lost connection: 连接中断
+[11:54:05] [Server thread/INFO]: wugemi退出了游戏
+[11:57:01] [User Authenticator #71/INFO]: UUID of player wugemi is 43df6199-2f49-40f1-bfb1-036396d2992b
+[11:57:01] [Server thread/INFO]: wugemi加入了游戏
+[11:57:01] [Server thread/INFO]: wugemi[/111.18.176.104:8042] logged in with entity id 575734 at ([world]-102.15923888759148, 64.5, 99.61985061753467)
+[12:04:02] [User Authenticator #72/INFO]: UUID of player wengege is f36d4701-b224-4392-b5dc-74d23d5d5546
+[12:04:02] [Server thread/INFO]: wengege加入了游戏
+[12:04:02] [Server thread/INFO]: wengege[/39.85.55.0:65432] logged in with entity id 577774 at ([world]-38.063243346706685, 64.0, 73.35167703935686)
+[12:04:21] [Async Chat Thread - #236/INFO]: <wengege> 哈喽、
+[12:04:28] [Async Chat Thread - #237/INFO]: <wugemi> HI
+[12:05:20] [Async Chat Thread - #236/INFO]: <wengege> 烤马铃薯的机器怎么做啊
+[12:05:31] [Async Chat Thread - #237/INFO]: <wugemi> 有现成的
+[12:12:26] [Server thread/INFO]: wengege lost connection: 连接中断
+[12:12:26] [Server thread/INFO]: wengege退出了游戏
+[12:14:22] [User Authenticator #73/INFO]: UUID of player wengege is f36d4701-b224-4392-b5dc-74d23d5d5546
+[12:14:23] [Server thread/INFO]: wengege加入了游戏
+[12:14:23] [Server thread/INFO]: wengege[/39.85.55.0:50472] logged in with entity id 579752 at ([world]-45.69146084961424, 65.0, 96.99025254983836)
+[12:14:26] [Server thread/INFO]: wengege lost connection: 连接中断
+[12:14:26] [Server thread/INFO]: wengege退出了游戏
+[12:37:23] [User Authenticator #74/INFO]: UUID of player wengege is f36d4701-b224-4392-b5dc-74d23d5d5546
+[12:37:23] [Server thread/INFO]: wengege加入了游戏
+[12:37:23] [Server thread/INFO]: wengege[/39.85.55.0:53607] logged in with entity id 583254 at ([world]-45.69146084961424, 65.0, 96.99025254983836)
+[12:37:27] [Server thread/INFO]: wengege lost connection: 连接中断
+[12:37:27] [Server thread/INFO]: wengege退出了游戏
+[12:39:46] [Server thread/INFO]: wugemi lost connection: 连接中断
+[12:39:46] [Server thread/INFO]: wugemi退出了游戏
+[13:06:02] [User Authenticator #75/INFO]: UUID of player yan_jue is a7360380-0c6a-4c8e-b00f-c99066f6bec0
+[13:06:02] [Server thread/INFO]: yan_jue加入了游戏
+[13:06:02] [Server thread/INFO]: yan_jue[/123.190.237.47:63903] logged in with entity id 583884 at ([world]-65.49118488843705, 64.5, 95.64489966888996)
+[13:20:21] [User Authenticator #76/INFO]: UUID of player GIOOIT is 7046d8be-8fa9-4937-ad9b-2e9e5f70da4a
+[13:20:21] [Server thread/INFO]: GIOOIT加入了游戏
+[13:20:21] [Server thread/INFO]: GIOOIT[/112.48.63.154:25705] logged in with entity id 587787 at ([world]16.5, 79.0, 208.5)
+[13:20:21] [Server thread/INFO]: GIOOIT取得了进度[获得升级]
+[13:21:02] [Server thread/WARN]: yan_jue moved wrongly!
+[13:21:02] [Server thread/WARN]: yan_jue moved wrongly!
+[13:21:03] [Server thread/WARN]: yan_jue moved wrongly!
+[13:21:03] [Server thread/WARN]: yan_jue moved wrongly!
+[13:21:40] [User Authenticator #77/INFO]: UUID of player Laowang826 is 8617247d-9b3b-4b88-9316-ae547205f696
+[13:21:40] [Server thread/INFO]: Laowang826加入了游戏
+[13:21:40] [Server thread/INFO]: Laowang826[/183.199.35.179:40324] logged in with entity id 588665 at ([world]142.30305134172954, 192.0, 418.3297161382543)
+[13:22:23] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[13:22:32] [Server thread/INFO]: Laowang826 issued server command: /tpa Laowang826
+[13:22:35] [Server thread/INFO]: Laowang826 issued server command: /tpa yan_jue
+[13:22:39] [Server thread/INFO]: yan_jue issued server command: /tpaccept
+[13:23:26] [Server thread/INFO]: GIOOIT取得了进度[石器时代]
+[13:27:05] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[13:34:05] [Server thread/INFO]: GIOOIT取得了进度[怪物猎人]
+[13:35:31] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[13:37:32] [Server thread/INFO]: GIOOIT取得了进度[来硬的]
+[13:37:49] [Server thread/INFO]: Laowang826 issued server command: /home village
+[13:37:57] [Server thread/INFO]: Laowang826 issued server command: /back
+[13:38:06] [Server thread/INFO]: Laowang826 issued server command: /back
+[13:39:17] [Server thread/INFO]: Laowang826 issued server command: /back
+[13:41:10] [Server thread/INFO]: GIOOIT lost connection: 连接中断
+[13:41:10] [Server thread/INFO]: GIOOIT退出了游戏
+[13:42:08] [Async Chat Thread - #243/INFO]: <Laowang826> 我想刷点普通的铁轨
+[13:42:08] [Async Chat Thread - #244/INFO]: <yan_jue> 开关在这
+[13:42:17] [Async Chat Thread - #245/INFO]: <Laowang826> 谢谢
+[13:42:18] [Async Chat Thread - #244/INFO]: <yan_jue> 你直接换上就行
+[13:43:45] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[13:43:55] [Server thread/INFO]: Laowang826 issued server command: /back
+[13:43:57] [Server thread/INFO]: Laowang826 issued server command: /back
+[13:44:03] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[13:47:11] [Server thread/INFO]: Laowang826 issued server command: /home village
+[13:50:13] [Server thread/INFO]: Laowang826 issued server command: /back
+[13:52:52] [Server thread/INFO]: Laowang826 issued server command: /back
+[13:52:53] [Server thread/INFO]: Laowang826 issued server command: /back
+[13:53:21] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[13:53:34] [Server thread/INFO]: Laowang826 issued server command: /back
+[13:53:37] [Server thread/INFO]: Laowang826 issued server command: /back
+[13:53:42] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[13:58:26] [User Authenticator #78/INFO]: UUID of player wengege is f36d4701-b224-4392-b5dc-74d23d5d5546
+[13:58:26] [Server thread/INFO]: wengege加入了游戏
+[13:58:26] [Server thread/INFO]: wengege[/39.85.55.0:62060] logged in with entity id 619737 at ([world]-45.69146084961424, 65.0, 96.99025254983836)
+[13:58:33] [Server thread/INFO]: wengege issued server command: /tps
+[13:58:46] [Server thread/INFO]: wengege issued server command: /tpshud hide
+[13:59:02] [Server thread/INFO]: wengege issued server command: /tpshud show
+[13:59:13] [Server thread/INFO]: wengege lost connection: 连接中断
+[13:59:13] [Server thread/INFO]: wengege退出了游戏
+[14:08:08] [Server thread/INFO]: Laowang826 issued server command: /home village
+[14:10:21] [Server thread/INFO]: Laowang826 issued server command: /back
+[14:11:01] [User Authenticator #79/INFO]: UUID of player wugemi is 43df6199-2f49-40f1-bfb1-036396d2992b
+[14:11:01] [Server thread/INFO]: wugemi加入了游戏
+[14:11:01] [Server thread/INFO]: wugemi[/111.18.176.104:8013] logged in with entity id 626864 at ([world]-38.05977872594023, 64.0, -381.4148560937169)
+[14:11:26] [Async Chat Thread - #247/INFO]: <yan_jue> 终于围好了qwq
+[14:12:18] [Server thread/INFO]: wugemi issued server command: /res tp ?
+[14:12:26] [User Authenticator #80/INFO]: UUID of player wengege is f36d4701-b224-4392-b5dc-74d23d5d5546
+[14:12:26] [Server thread/INFO]: wengege加入了游戏
+[14:12:26] [Server thread/INFO]: wengege[/39.85.55.0:63590] logged in with entity id 628374 at ([world]-50.92333723761013, 64.5, 96.53225352774948)
+[14:13:16] [Async Chat Thread - #249/INFO]: <wugemi> 刷铁机是tp什么来着
+[14:13:22] [Async Chat Thread - #249/INFO]: <Laowang826> shuatieta
+[14:13:41] [Server thread/INFO]: Villager EntityVillager['村民'/627787, uuid='9007689b-ce54-4fe6-bacf-3bb1df638111', l='ServerLevel[world]', x=-361.51, y=65.00, z=218.51, cpos=[-23, 13], tl=985788, v=true] died, message: '村民被僵尸杀死了'
+[14:13:50] [Server thread/INFO]: wugemi issued server command: /res tp shuatieta
+[14:13:58] [Async Chat Thread - #249/INFO]: <wugemi> 3Q
+[14:14:02] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[14:15:44] [Server thread/INFO]: wugemi issued server command: /home 1
+[14:16:00] [Server thread/INFO]: wugemi issued server command: /home 2
+[14:20:47] [Server thread/INFO]: Laowang826 issued server command: /back
+[14:23:37] [Server thread/INFO]: wengege lost connection: 连接中断
+[14:23:37] [Server thread/INFO]: wengege退出了游戏
+[14:23:50] [User Authenticator #81/INFO]: UUID of player wengege is f36d4701-b224-4392-b5dc-74d23d5d5546
+[14:23:50] [Server thread/INFO]: wengege加入了游戏
+[14:23:50] [Server thread/INFO]: wengege[/39.85.55.0:64513] logged in with entity id 636439 at ([world]-103.81903910930662, 68.0, 93.17140471863233)
+[14:23:54] [Server thread/INFO]: wengege lost connection: 连接中断
+[14:23:54] [Server thread/INFO]: wengege退出了游戏
+[14:31:53] [Async Chat Thread - #252/INFO]: <wugemi> 在这做繁殖所和交易所吧
+[14:32:20] [Async Chat Thread - #253/INFO]: <yan_jue> 都行
+[14:32:39] [Async Chat Thread - #252/INFO]: <wugemi> 没位置了
+[14:32:49] [Server thread/INFO]: Laowang826 issued server command: /back
+[14:32:53] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[14:33:07] [Async Chat Thread - #253/INFO]: <yan_jue> 这还有
+[14:33:32] [Async Chat Thread - #252/INFO]: <wugemi> 你会自动繁殖吗
+[14:33:40] [Async Chat Thread - #253/INFO]: <yan_jue> 不会awa
+[14:33:54] [Async Chat Thread - #252/INFO]: <Laowang826> 我只记得要床，还有食物
+[14:34:07] [Async Chat Thread - #253/INFO]: <wugemi> 好吧
+[14:34:10] [Async Chat Thread - #252/INFO]: <Laowang826> 床越多，人口上限越多
+[14:34:17] [Async Chat Thread - #253/INFO]: <Laowang826> 食物多了就会繁殖
+[14:34:43] [Async Chat Thread - #252/INFO]: <Laowang826> 我刚好也打算做交易所hhh
+[14:35:13] [Async Chat Thread - #253/INFO]: <wugemi> 我给你运了村民
+[14:35:53] [Async Chat Thread - #252/INFO]: <yan_jue> 我给你拉了铁道
+[14:35:58] [Server thread/INFO]: wugemi issued server command: /res tp shuatieta
+[14:36:27] [Server thread/INFO]: wugemi issued server command: /res tp shuatieta
+[14:38:41] [Async Chat Thread - #254/INFO]: <wugemi> 天啦 这村庄硬是一本书都没有
+[14:38:42] [Server thread/INFO]: wugemi被僵尸杀死了
+[14:38:52] [Async Chat Thread - #255/INFO]: <yan_jue> 你要书啊
+[14:38:55] [Async Chat Thread - #254/INFO]: <yan_jue> 我有啊
+[14:39:09] [Server thread/INFO]: Laowang826 issued server command: /home village
+[14:39:30] [Async Chat Thread - #255/INFO]: <wugemi> 先刷个经验修补
+[14:39:59] [Async Chat Thread - #254/INFO]: <yan_jue> 铁路拉好了
+[14:41:48] [Async Chat Thread - #256/INFO]: <wugemi> 拉那岛上去干啥
+[14:42:06] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[14:42:13] [Async Chat Thread - #257/INFO]: <wugemi> 那个岛准备做建筑
+[14:42:20] [Async Chat Thread - #256/INFO]: <yan_jue> 奥奥
+[14:43:20] [Server thread/INFO]: Laowang826 issued server command: /back
+[14:46:43] [Async Chat Thread - #258/INFO]: <wugemi> 还有没有鞘翅
+[14:46:57] [Async Chat Thread - #258/INFO]: <yan_jue> 末地还有awa
+[14:47:12] [Async Chat Thread - #259/INFO]: <wugemi> 我拿狱髓跟你换
+[14:47:45] [Async Chat Thread - #258/INFO]: <yan_jue> 我也就一个啊
+[14:48:04] [Async Chat Thread - #259/INFO]: <wugemi> 帮我找一个来
+[14:48:09] [Async Chat Thread - #258/INFO]: <Laowang826> 这玩意贼难找
+[14:48:11] [Async Chat Thread - #259/INFO]: <wugemi> 我给你狱髓
+[14:48:13] [Async Chat Thread - #258/INFO]: <yan_jue> 行吧
+[14:48:15] [Async Chat Thread - #259/INFO]: <yan_jue> qwq
+[14:49:14] [Async Chat Thread - #258/INFO]: <wugemi> 怎么没了
+[14:49:22] [Async Chat Thread - #259/INFO]: <wugemi> 你拿了吗
+[14:49:25] [Async Chat Thread - #258/INFO]: <yan_jue> 没啊
+[14:49:39] [Async Chat Thread - #259/INFO]: <yan_jue> 你找服主查询一下
+[14:49:41] [Async Chat Thread - #258/INFO]: <wugemi> 淦
+[14:50:38] [Server thread/INFO]: Laowang826从高处摔了下来
+[14:50:41] [Server thread/INFO]: Laowang826 issued server command: /back
+[14:52:24] [Async Chat Thread - #261/INFO]: <yan_jue> 村民呢？
+[14:52:32] [Async Chat Thread - #260/INFO]: <wugemi> zoule
+[14:52:48] [Async Chat Thread - #261/INFO]: <wugemi> 原来在熔炉里
+[14:53:16] [User Authenticator #82/INFO]: UUID of player wengege is f36d4701-b224-4392-b5dc-74d23d5d5546
+[14:53:16] [Server thread/INFO]: wengege加入了游戏
+[14:53:16] [Server thread/INFO]: wengege[/39.85.55.0:50172] logged in with entity id 660354 at ([world]-103.81903910930662, 68.0, 93.17140471863233)
+[14:55:58] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[14:56:29] [Server thread/INFO]: Laowang826 issued server command: /back
+[14:59:39] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[15:00:22] [Server thread/INFO]: Laowang826 issued server command: /back
+[15:00:54] [Server thread/INFO]: wengege lost connection: 连接中断
+[15:00:54] [Server thread/INFO]: wengege退出了游戏
+[15:03:03] [Server thread/INFO]: Laowang826淹死了
+[15:03:05] [Server thread/INFO]: Laowang826 issued server command: /back
+[15:03:36] [Server thread/INFO]: Laowang826淹死了
+[15:03:40] [Server thread/INFO]: Laowang826 issued server command: /back
+[15:04:13] [Server thread/INFO]: Laowang826 issued server command: /back
+[15:04:16] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[15:04:42] [Server thread/INFO]: Laowang826 issued server command: /back
+[15:04:43] [Server thread/INFO]: wugemi issued server command: /res tp shautieta
+[15:04:56] [Server thread/INFO]: wugemi issued server command: /res tp shuatieta
+[15:05:46] [Server thread/INFO]: Laowang826淹死了
+[15:05:50] [Server thread/INFO]: Laowang826 issued server command: /res tp zombieShuaGuaiLong
+[15:06:07] [Server thread/INFO]: Laowang826 issued server command: /back
+[15:06:49] [Server thread/INFO]: yan_jue取得了进度[旧貌锻新颜]
+[15:09:41] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[15:10:00] [Server thread/INFO]: Laowang826 issued server command: /back
+[15:13:19] [Server thread/INFO]: Laowang826 issued server command: /sethome village
+[15:13:34] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[15:18:17] [Server thread/INFO]: yan_jue issued server command: /home modimen
+[15:21:41] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[15:28:52] [Server thread/WARN]: yan_jue moved too quickly! 6.796194698136787,1.36799485096806,-19.64939873700223
+[15:31:14] [Server thread/INFO]: Laowang826 issued server command: /home village
+[15:31:19] [Server thread/INFO]: Laowang826 issued server command: /back
+[15:31:54] [Server thread/INFO]: Laowang826 issued server command: /back
+[15:31:58] [Server thread/INFO]: Laowang826 issued server command: /back
+[15:32:15] [Server thread/INFO]: Laowang826 issued server command: /back
+[15:33:53] [Server thread/INFO]: yan_jue从高处摔了下来
+[15:33:57] [Server thread/INFO]: yan_jue issued server command: /back
+[15:34:27] [Server thread/INFO]: Laowang826 issued server command: /back
+[15:35:14] [Server thread/INFO]: Laowang826 issued server command: /back
+[15:35:28] [Server thread/INFO]: yan_jue issued server command: /back
+[15:36:00] [Server thread/INFO]: yan_jue issued server command: /back
+[15:36:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@3286ab20[id=<null>,name=Dogs,properties={},legacy=false] (/101.80.246.85:42675) lost connection: 连接中断
+[15:36:58] [Server thread/INFO]: Laowang826 issued server command: /back
+[15:37:09] [Server thread/INFO]: yan_jue感受到了动能
+[15:37:15] [Server thread/INFO]: yan_jue issued server command: /back
+[15:38:22] [Server thread/INFO]: yan_jue issued server command: /home __
+[15:38:30] [Server thread/INFO]: yan_jue issued server command: /home 小黑
+[15:39:18] [Async Chat Thread - #263/INFO]: <yan_jue> 谁有我小黑塔的点
+[15:41:56] [Server thread/INFO]: yan_jue被末影人杀死了
+[15:42:06] [Server thread/INFO]: yan_jue issued server command: /home modimen
+[15:42:15] [Server thread/INFO]: yan_jue issued server command: /homes 地狱
+[15:42:29] [Server thread/INFO]: yan_jue issued server command: /homes __
+[15:42:41] [Server thread/INFO]: yan_jue issued server command: /remhome __
+[15:42:55] [Server thread/INFO]: yan_jue从高处摔了下来
+[15:42:59] [Server thread/INFO]: yan_jue issued server command: /back
+[15:43:45] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[15:45:29] [Server thread/INFO]: Laowang826从高处摔了下来
+[15:45:32] [Server thread/INFO]: Laowang826 issued server command: /back
+[15:49:16] [Server thread/INFO]: Laowang826 issued server command: /res tp zombieShuaGuaiLong
+[15:49:35] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[15:49:49] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[15:55:31] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[15:55:53] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[15:56:16] [Server thread/INFO]: Laowang826 issued server command: /back
+[15:56:19] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[15:58:35] [Server thread/INFO]: yan_jue感受到了动能
+[15:58:40] [Server thread/INFO]: yan_jue issued server command: /back
+[15:59:18] [Server thread/INFO]: Laowang826 issued server command: /home village
+[15:59:29] [Server thread/INFO]: Laowang826 issued server command: /back
+[16:05:37] [Server thread/INFO]: Laowang826 issued server command: /home village
+[16:06:52] [Server thread/INFO]: yan_jue issued server command: /back
+[16:06:52] [Server thread/INFO]: yan_jue完成了挑战[这上面的风景不错]
+[16:08:15] [Async Chat Thread - #264/INFO]: <yan_jue> 猜猜我找到多少鞘翅awa
+[16:08:28] [Async Chat Thread - #265/INFO]: <Laowang826> 呃...一个？
+[16:08:34] [Async Chat Thread - #264/INFO]: <Laowang826> qwq
+[16:08:38] [Async Chat Thread - #265/INFO]: <yan_jue> 再猜awa
+[16:08:51] [Async Chat Thread - #264/INFO]: <yan_jue> 我用掉了7组烟花awa
+[16:08:51] [Async Chat Thread - #265/INFO]: <Laowang826> 不...不会是两个吧QAQ
+[16:08:57] [Async Chat Thread - #264/INFO]: <yan_jue> 再猜awa
+[16:09:10] [Async Chat Thread - #265/INFO]: <Laowang826> 不敢猜了QvQ
+[16:09:21] [Async Chat Thread - #265/INFO]: <yan_jue> 我掏了7个awa
+[16:09:29] [Async Chat Thread - #264/INFO]: <Laowang826> 草，好多
+[16:09:44] [Async Chat Thread - #265/INFO]: <yan_jue> 一直在飞awa
+[16:09:49] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[16:10:14] [Server thread/INFO]: Laowang826 issued server command: /tpa yan_jue
+[16:10:18] [Server thread/INFO]: yan_jue issued server command: /tpaccept
+[16:10:41] [Async Chat Thread - #264/INFO]: <Laowang826> 分我几个鞘翅QvQ
+[16:10:56] [Async Chat Thread - #265/INFO]: <Laowang826> 谢谢QVQ
+[16:13:15] [Server thread/INFO]: yan_jue issued server command: /tpa wugemi
+[16:15:38] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[16:17:10] [Server thread/INFO]: Laowang826 issued server command: /suicide
+[16:17:10] [Server thread/INFO]: Laowang826死了
+[16:17:17] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[16:18:13] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[16:18:55] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[16:19:34] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[16:20:44] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[16:20:59] [Server thread/INFO]: Laowang826 issued server command: /back
+[16:25:06] [Server thread/INFO]: Laowang826 issued server command: /home village
+[16:25:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@6c983940[id=<null>,name=Chumring,properties={},legacy=false] (/182.89.50.95:22310) lost connection: 连接中断
+[16:26:51] [Server thread/INFO]: yan_jue issued server command: /res TP 1
+[16:31:48] [Server thread/INFO]: Laowang826 issued server command: /home village
+[16:37:46] [Server thread/INFO]: yan_jue issued server command: /res TP 1
+[16:37:51] [User Authenticator #83/INFO]: UUID of player Chumring is 27045918-76f9-4ea3-bcf0-478f5288c631
+[16:37:51] [Server thread/INFO]: Chumring加入了游戏
+[16:37:51] [Server thread/INFO]: Chumring[/182.89.50.95:23247] logged in with entity id 752092 at ([world]16.5, 79.0, 208.5)
+[16:37:51] [Server thread/INFO]: Chumring取得了进度[获得升级]
+[16:38:26] [Async Chat Thread - #266/INFO]: <Chumring> hello
+[16:38:35] [Async Chat Thread - #267/INFO]: <wugemi> HI
+[16:38:45] [Server thread/INFO]: wugemi issued server command: /tpa yan_jue
+[16:38:49] [Server thread/INFO]: yan_jue issued server command: /tpaccept
+[16:38:51] [Async Chat Thread - #266/INFO]: <Laowang826> 欢迎
+[16:38:57] [Server thread/INFO]: wugemi达成了目标[天空即为极限]
+[16:39:42] [Server thread/INFO]: wugemi issued server command: /tpa Chumring
+[16:39:55] [Server thread/INFO]: Chumring issued server command: /tpaccept
+[16:40:33] [Async Chat Thread - #269/INFO]: <Chumring> 你头上为啥有个火把
+[16:40:41] [Async Chat Thread - #268/INFO]: <Laowang826> 可以往头上放东西
+[16:40:43] [Async Chat Thread - #269/INFO]: <wugemi> 矿工
+[16:40:46] [Async Chat Thread - #268/INFO]: <Laowang826> 随便什么都行
+[16:40:53] [Async Chat Thread - #269/INFO]: <Chumring> 咋放啊
+[16:40:57] [Async Chat Thread - #268/INFO]: <Laowang826> 直接放就行
+[16:41:03] [Async Chat Thread - #269/INFO]: <Laowang826> 和放头盔啥的一样
+[16:41:05] [Async Chat Thread - #269/INFO]: <wugemi> 戴帽子一样的
+[16:41:15] [Async Chat Thread - #268/INFO]: <Chumring> 右键？
+[16:41:23] [Async Chat Thread - #269/INFO]: <Laowang826> 右键不行
+[16:41:29] [Async Chat Thread - #269/INFO]: <wugemi> 按e
+[16:41:31] [Async Chat Thread - #268/INFO]: <Laowang826> 物品栏里自己拖进去
+[16:41:39] [Async Chat Thread - #269/INFO]: <Chumring> np
+[16:41:41] [Async Chat Thread - #269/INFO]: <Chumring> nb
+[16:42:39] [Async Chat Thread - #268/INFO]: <wugemi> 会建筑吗
+[16:42:44] [Async Chat Thread - #268/INFO]: <Chumring> 不会 小白
+[16:42:51] [Async Chat Thread - #269/INFO]: <wugemi> 好吧
+[16:43:24] [Async Chat Thread - #268/INFO]: <Chumring> 妈呀那么多
+[16:43:33] [Server thread/INFO]: yan_jue issued server command: /res TP 1
+[16:45:35] [Async Chat Thread - #270/INFO]: <Chumring> 这是要干啥
+[16:45:44] [Async Chat Thread - #271/INFO]: <wugemi> 我准备建筑这个岛
+[16:45:58] [Async Chat Thread - #270/INFO]: <wugemi> 先做车站
+[16:45:58] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[16:45:59] [Async Chat Thread - #271/INFO]: <Chumring> 我不会白痴、
+[16:46:03] [Async Chat Thread - #270/INFO]: <Chumring> 我不会[白痴、
+[16:46:16] [Async Chat Thread - #271/INFO]: <wugemi> 那你随便玩玩
+[16:46:42] [Server thread/INFO]: Laowang826 issued server command: /back
+[16:48:08] [Server thread/INFO]: Chumring lost connection: 连接中断
+[16:48:08] [Server thread/INFO]: Chumring退出了游戏
+[16:48:26] [Async Chat Thread - #272/INFO]: <wugemi> 鞘翅不能附魔呢
+[16:48:41] [Async Chat Thread - #274/INFO]: <Laowang826> 可以
+[16:48:49] [Async Chat Thread - #272/INFO]: <Laowang826> 但不能附魔台附魔
+[16:48:53] [Async Chat Thread - #274/INFO]: <Laowang826> 要附魔书
+[16:49:08] [Async Chat Thread - #272/INFO]: <wugemi> 淦
+[16:49:31] [Async Chat Thread - #274/INFO]: <Laowang826> 一般附耐久，经验修补这样的
+[16:49:40] [Async Chat Thread - #272/INFO]: <wugemi> 还是得先建交易所
+[16:51:42] [Async Chat Thread - #275/INFO]: <Laowang826> 我也在搞交易所
+[16:53:24] [Async Chat Thread - #277/INFO]: <wugemi> 那我就不用搞了！
+[16:53:33] [Async Chat Thread - #277/INFO]: <Laowang826> 草，不行不行
+[16:53:40] [Async Chat Thread - #278/INFO]: <Laowang826> 我也不一定能做出来
+[16:53:43] [Async Chat Thread - #277/INFO]: <Laowang826> 第一次做
+[16:54:07] [Async Chat Thread - #278/INFO]: <wugemi> 交易所没难度
+[16:54:22] [Async Chat Thread - #277/INFO]: <Laowang826> 好...好吧QvQ
+[16:54:22] [Async Chat Thread - #278/INFO]: <wugemi> 就是运村民麻烦
+[16:54:43] [Async Chat Thread - #277/INFO]: <Laowang826> 我运完了，现在在搞繁殖...
+[16:54:56] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[16:55:05] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[16:55:09] [Async Chat Thread - #278/INFO]: <wugemi> 很好
+[16:55:33] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[16:55:40] [Server thread/INFO]: wugemi issued server command: /tpa Laowang826
+[16:55:45] [Server thread/INFO]: Laowang826 issued server command: /home village
+[16:55:50] [Async Chat Thread - #277/INFO]: <Laowang826> i你要来看看吗
+[16:55:53] [Server thread/INFO]: Laowang826 issued server command: /tpaccept
+[16:55:57] [Async Chat Thread - #278/INFO]: <wugemi> en
+[16:56:04] [Async Chat Thread - #277/INFO]: <Laowang826> 这个是在高空
+[16:56:13] [Async Chat Thread - #278/INFO]: <wugemi> 多放点床
+[16:56:25] [Async Chat Thread - #277/INFO]: <Laowang826> 刚搭完平台
+[16:56:50] [Async Chat Thread - #278/INFO]: <wugemi> 这么高刷的出来吗
+[16:57:01] [Async Chat Thread - #277/INFO]: <Laowang826> 啊...这个还需要高度的吗
+[16:57:19] [Async Chat Thread - #278/INFO]: <Laowang826> 我感觉在高空方便些，防止刷怪
+[16:57:24] [Async Chat Thread - #277/INFO]: <Laowang826> 所以就放高处了
+[16:57:45] [Async Chat Thread - #278/INFO]: <Laowang826> 那我先试一下
+[16:57:52] [Async Chat Thread - #277/INFO]: <wugemi> 那得一直有人在这
+[16:58:22] [Async Chat Thread - #278/INFO]: <Laowang826> 这个没问题，我打算把这里当我的基地的
+[16:58:30] [Async Chat Thread - #277/INFO]: <wugemi> 那还好
+[16:59:04] [Async Chat Thread - #278/INFO]: <Laowang826> 放床和食物就行了是吗
+[16:59:08] [Async Chat Thread - #278/INFO]: <wugemi> 放床 还要给他们吃的
+[16:59:20] [Async Chat Thread - #277/INFO]: <wugemi> 对对
+[16:59:40] [Async Chat Thread - #278/INFO]: <wugemi> 一个村民一个床位
+[16:59:50] [Async Chat Thread - #277/INFO]: <Laowang826> 我本来想做那种一个农民扔食物，然后运输小村民那种自动繁殖
+[16:59:54] [Async Chat Thread - #278/INFO]: <wugemi> 要多生就多放床
+[17:00:06] [Async Chat Thread - #277/INFO]: <wugemi> 你会？
+[17:00:16] [Async Chat Thread - #278/INFO]: <Laowang826> b站上找的教程
+[17:00:33] [Async Chat Thread - #277/INFO]: <wugemi> 我也想做这样的
+[17:00:45] [Async Chat Thread - #278/INFO]: <wugemi> 但是懒得看教程
+[17:00:53] [Async Chat Thread - #277/INFO]: <wugemi> 遂放弃
+[17:00:56] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[17:01:07] [Async Chat Thread - #278/INFO]: <Laowang826> 我也不确定能不能做出来
+[17:01:20] [Async Chat Thread - #278/INFO]: <Laowang826> 因为那个要隔离村民有点麻烦
+[17:01:32] [Async Chat Thread - #277/INFO]: <Laowang826> 不然会占床位导致不能繁殖
+[17:02:02] [Async Chat Thread - #277/INFO]: <Laowang826> 啊好像不用...
+[17:02:06] [Async Chat Thread - #278/INFO]: <wugemi> 把小村民运远点就行了
+[17:02:16] [Async Chat Thread - #277/INFO]: <Laowang826> 小村民没有碰到床的话好像不算绑定
+[17:02:23] [Async Chat Thread - #278/INFO]: <Laowang826> 刚看视频评论看到的
+[17:02:37] [Async Chat Thread - #277/INFO]: <Laowang826> 嗯，大不了运远一点
+[17:03:00] [Async Chat Thread - #278/INFO]: <Laowang826> 对了好像有人做了交易站了
+[17:03:08] [Async Chat Thread - #277/INFO]: <wugemi> 没有吧
+[17:03:09] [Async Chat Thread - #278/INFO]: <Laowang826> 就是有点小，没啥可换的
+[17:03:19] [Async Chat Thread - #277/INFO]: <Laowang826> 有的。稍等我去一下
+[17:03:31] [Server thread/INFO]: wugemi从高处摔了下来
+[17:03:59] [Async Chat Thread - #279/INFO]: <Laowang826> 一会儿你传我我带你看看
+[17:04:33] [Async Chat Thread - #279/INFO]: <Laowang826> 来吧
+[17:04:55] [Server thread/INFO]: wugemi issued server command: /tpa Laowang826
+[17:04:58] [Server thread/INFO]: Laowang826 issued server command: /tpaccept
+[17:05:04] [Async Chat Thread - #278/INFO]: <Laowang826> 不知道谁的
+[17:05:08] [Async Chat Thread - #279/INFO]: <Laowang826> 像是没做完
+[17:05:17] [Async Chat Thread - #278/INFO]: <wugemi> 我见过这个
+[17:06:16] [Server thread/INFO]: Laowang826 issued server command: /home village
+[17:06:17] [Async Chat Thread - #280/INFO]: <wugemi> 渔夫刷绿宝石不错
+[17:06:27] [Async Chat Thread - #281/INFO]: <Laowang826> 嗯，确实
+[17:06:44] [Async Chat Thread - #280/INFO]: <Laowang826> 有刷线机可以无限换
+[17:06:57] [Async Chat Thread - #281/INFO]: <Laowang826> 还有船换绿宝石也很赚
+[17:07:07] [Server thread/INFO]: Laowang826 issued server command: /back
+[17:07:09] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[17:07:15] [Async Chat Thread - #280/INFO]: <wugemi> 把渔夫绑架了
+[17:09:26] [Server thread/INFO]: Laowang826 issued server command: /home village
+[17:09:51] [Server thread/INFO]: yan_jue issued server command: /res TP 1
+[17:10:59] [Server thread/INFO]: yan_jue issued server command: /home
+[17:11:02] [Server thread/INFO]: yan_jue issued server command: /home
+[17:11:05] [Server thread/INFO]: yan_jue issued server command: /home modimen
+[17:11:22] [Server thread/INFO]: yan_jue从高处摔了下来
+[17:11:27] [Server thread/INFO]: yan_jue issued server command: /back
+[17:11:58] [Server thread/INFO]: yan_jue issued server command: /sethome xiaoheita
+[17:12:10] [Server thread/INFO]: wugemi取得了进度[成交！]
+[17:12:15] [Server thread/INFO]: yan_jue issued server command: /back
+[17:12:19] [Async Chat Thread - #282/INFO]: <Laowang826> 自从有了鞘翅，天天摔死（）
+[17:12:47] [Async Chat Thread - #283/INFO]: <yan_jue> 我现在唯一的死法就是摔死...
+[17:13:06] [Async Chat Thread - #282/INFO]: <yan_jue> 尤其是在地狱飞...
+[17:13:07] [Async Chat Thread - #283/INFO]: <Laowang826> 的确hhh
+[17:13:22] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[17:13:29] [Server thread/INFO]: Laowang826 issued server command: /back
+[17:13:38] [Async Chat Thread - #282/INFO]: <wugemi> 我这没附魔书 都不敢用鞘翅
+[17:13:59] [Async Chat Thread - #283/INFO]: <yan_jue> 我耐久三经验修补的鞘翅awa
+[17:15:33] [Async Chat Thread - #284/INFO]: <wugemi> 还有附魔书吗
+[17:16:07] [Async Chat Thread - #285/INFO]: <Laowang826> 刷石机和刷地毯机真是伟大的发明
+[17:16:15] [Async Chat Thread - #284/INFO]: <Laowang826> 没了这两个我都不知道怎么活
+[17:16:43] [Async Chat Thread - #285/INFO]: <yan_jue> 开荒期我倾家荡产做的刷石机
+[17:17:25] [Async Chat Thread - #284/INFO]: <Laowang826> 感谢yan_jue QvQ
+[17:17:39] [Async Chat Thread - #285/INFO]: <Laowang826> 你拉动了全服的GPT
+[17:17:45] [Async Chat Thread - #284/INFO]: <yan_jue> 这个b服务器开荒的时候还是我一个人...
+[17:18:05] [Async Chat Thread - #285/INFO]: <yan_jue> 就打龙的时候有个人跟我一块
+[17:18:21] [Async Chat Thread - #284/INFO]: <wugemi> 6
+[17:18:34] [Server thread/INFO]: yan_jue取得了进度[眼前一亮！]
+[17:19:40] [Async Chat Thread - #286/INFO]: <yan_jue> 末地还剩一个成就了，我要复活末影龙，你们打吗
+[17:19:50] [Async Chat Thread - #287/INFO]: <Laowang826> 嗯
+[17:20:06] [Async Chat Thread - #287/INFO]: <yan_jue> 我先做东西了
+[17:20:14] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[17:20:36] [Async Chat Thread - #286/INFO]: <Laowang826> 那我准备下装备
+[17:21:07] [Async Chat Thread - #287/INFO]: <yan_jue> 不用怎么准备，现在末地有死亡不掉落
+[17:21:14] [Async Chat Thread - #286/INFO]: <yan_jue> 我打的时候没有AWA
+[17:21:24] [Async Chat Thread - #287/INFO]: <Laowang826> 草，好惨
+[17:21:40] [Async Chat Thread - #286/INFO]: <Laowang826> 那你做好后我传过去
+[17:21:43] [Async Chat Thread - #287/INFO]: <yan_jue> OK
+[17:23:20] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[17:23:54] [Server thread/INFO]: Laowang826 issued server command: /home village
+[17:24:02] [Server thread/INFO]: Laowang826 issued server command: /back
+[17:24:04] [Async Chat Thread - #288/INFO]: <yan_jue> 谁把石头放烟熏炉里了
+[17:24:05] [Async Chat Thread - #289/INFO]: <yan_jue> ...
+[17:24:41] [Async Chat Thread - #288/INFO]: <Laowang826> 可能是有人把原石放那个箱子里了
+[17:24:50] [Async Chat Thread - #289/INFO]: <Laowang826> 因为我这么干过一次（
+[17:24:52] [Async Chat Thread - #288/INFO]: <yan_jue> AWA
+[17:24:56] [Async Chat Thread - #289/INFO]: <yan_jue> 好好好
+[17:25:03] [Async Chat Thread - #288/INFO]: <Laowang826> 不过后来发现后我弄回去了
+[17:25:20] [Async Chat Thread - #288/INFO]: <Laowang826> 所以不是我干的（
+[17:26:42] [Async Chat Thread - #290/INFO]: <yan_jue> 准备好了
+[17:26:48] [Async Chat Thread - #291/INFO]: <Laowang826> ok
+[17:26:52] [Server thread/INFO]: yan_jue issued server command: /home modimen
+[17:27:04] [Async Chat Thread - #290/INFO]: <yan_jue> TP我
+[17:27:04] [Server thread/INFO]: Laowang826 issued server command: /tpa yan_jue
+[17:27:07] [Server thread/INFO]: yan_jue issued server command: /tpaccept
+[17:27:21] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[17:27:26] [Server thread/INFO]: Laowang826 issued server command: /back
+[17:28:08] [Server thread/INFO]: Laowang826达成了目标[结束了…再一次…]
+[17:28:36] [Async Chat Thread - #293/INFO]: <Laowang826> 草我一点都看不见
+[17:28:36] [Server thread/INFO]: yan_jue达成了目标[你需要来点薄荷糖]
+[17:28:44] [Server thread/INFO]: Laowang826达成了目标[你需要来点薄荷糖]
+[17:29:11] [Server thread/INFO]: Laowang826被末影人杀死了
+[17:29:14] [Server thread/INFO]: Laowang826 issued server command: /back
+[17:29:33] [Server thread/INFO]: Laowang826被Laowang826炸死了
+[17:29:36] [Server thread/INFO]: Laowang826 issued server command: /back
+[17:30:12] [Server thread/INFO]: Laowang826被末影人杀死了
+[17:30:15] [Server thread/INFO]: Laowang826 issued server command: /back
+[17:30:23] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[17:30:31] [Server thread/INFO]: Laowang826 issued server command: /back
+[17:30:36] [Server thread/INFO]: Laowang826 issued server command: /back
+[17:30:42] [Server thread/INFO]: Laowang826 issued server command: /home end
+[17:30:42] [Server thread/INFO]: yan_jue因为yan_jue注定要摔死
+[17:30:47] [Server thread/INFO]: yan_jue issued server command: /back
+[17:31:10] [Async Chat Thread - #295/INFO]: <Laowang826> 啥时候打龙还有这种变黑的debuff了QAQ
+[17:31:23] [Async Chat Thread - #294/INFO]: <yan_jue> 有吗？
+[17:31:32] [Server thread/INFO]: yan_jue因为末影龙注定要摔死
+[17:31:35] [Async Chat Thread - #295/INFO]: <Laowang826> 嗯，我现在看上面都是黑的
+[17:31:37] [Server thread/INFO]: yan_jue issued server command: /back
+[17:31:45] [Async Chat Thread - #294/INFO]: <Laowang826> 根本看不见水晶和龙
+[17:31:52] [Async Chat Thread - #295/INFO]: <yan_jue> 光影问题？
+[17:31:58] [Async Chat Thread - #294/INFO]: <Laowang826> 没开光影
+[17:32:18] [Server thread/INFO]: Laowang826被末影人杀死了
+[17:32:19] [Async Chat Thread - #295/INFO]: <yan_jue> 我开了awa
+[17:32:34] [Async Chat Thread - #294/INFO]: <Laowang826> 那你可能是开了光影才能看见吧
+[17:32:49] [Async Chat Thread - #295/INFO]: <Laowang826> 我现在只能开着碰撞箱打QvQ
+[17:32:52] [Server thread/INFO]: Laowang826 issued server command: /back
+[17:33:44] [Server thread/INFO]: yan_jue被末影龙杀死了
+[17:33:48] [Server thread/INFO]: yan_jue issued server command: /back
+[17:33:56] [Server thread/INFO]: yan_jue被末影人杀死了
+[17:34:00] [Server thread/INFO]: yan_jue issued server command: /back
+[17:34:15] [Async Chat Thread - #296/INFO]: <Laowang826> 还差最后一刀了
+[17:34:20] [Async Chat Thread - #297/INFO]: <yan_jue> 你打啊
+[17:34:29] [Async Chat Thread - #296/INFO]: <Laowang826> 哦好
+[17:34:39] [Async Chat Thread - #297/INFO]: <yan_jue> 我就拿瓶子的成就
+[17:35:10] [Async Chat Thread - #297/INFO]: <yan_jue> 好下饭
+[17:35:19] [Server thread/INFO]: Laowang826取得了进度[解放末地]
+[17:35:22] [Server thread/INFO]: Laowang826被末影人杀死了
+[17:35:24] [Server thread/INFO]: Laowang826 issued server command: /back
+[17:35:40] [Async Chat Thread - #296/INFO]: <Laowang826> 终于QvQ
+[17:35:58] [Async Chat Thread - #297/INFO]: <Laowang826> 打完龙就不黑了
+[17:36:01] [Async Chat Thread - #296/INFO]: <yan_jue> 怎么感觉全是我在Cawa
+[17:36:12] [Async Chat Thread - #297/INFO]: <Laowang826> 是的2333
+[17:36:31] [Async Chat Thread - #296/INFO]: <Laowang826> 看来的确是因为龙的原因才看不清
+[17:36:36] [Async Chat Thread - #297/INFO]: <yan_jue> 讲个笑话，我打龙的时候是裸装
+[17:36:39] [Async Chat Thread - #296/INFO]: <Laowang826> 打完龙就恢复正常的
+[17:36:52] [Async Chat Thread - #297/INFO]: <Laowang826> OvQ
+[17:36:56] [Async Chat Thread - #296/INFO]: <yan_jue> 我这光影在古城都不黑
+[17:37:00] [Async Chat Thread - #297/INFO]: <yan_jue> awa
+[17:37:23] [Server thread/INFO]: Laowang826达成了目标[下一世代]
+[17:37:26] [Async Chat Thread - #296/INFO]: <Laowang826> 原来第二次也会有龙蛋
+[17:37:31] [Async Chat Thread - #297/INFO]: <yan_jue> 一直会
+[17:37:32] [Async Chat Thread - #296/INFO]: <Laowang826> 我还以为只有第一次
+[17:37:51] [Server thread/INFO]: yan_jue issued server command: /res TP 1
+[17:37:57] [Server thread/INFO]: Laowang826 issued server command: /home village
+[17:38:01] [Server thread/INFO]: Laowang826 issued server command: /back
+[17:38:03] [Server thread/INFO]: Laowang826 issued server command: /home village
+[17:38:50] [User Authenticator #84/INFO]: UUID of player Glloy_D is 82153e9c-e89e-43cd-8c94-4a41999a2908
+[17:38:50] [Server thread/INFO]: Glloy_D加入了游戏
+[17:38:50] [Server thread/INFO]: Glloy_D[/222.128.120.164:58922] logged in with entity id 790874 at ([world]16.5, 79.0, 208.5)
+[17:38:51] [Server thread/INFO]: Glloy_D取得了进度[获得升级]
+[17:39:25] [Async Chat Thread - #298/INFO]: <Glloy_D> hello
+[17:39:28] [Async Chat Thread - #299/INFO]: <yan_jue> hi
+[17:39:30] [Async Chat Thread - #298/INFO]: <Laowang826> 欢迎
+[17:39:44] [Async Chat Thread - #299/INFO]: <Glloy_D> 我在宿舍用
+[17:39:50] [Async Chat Thread - #298/INFO]: <Glloy_D> macbook 玩的
+[17:40:08] [Async Chat Thread - #299/INFO]: <yan_jue> 好家伙
+[17:40:34] [Async Chat Thread - #298/INFO]: <yan_jue> 出生点以前其实是个森林
+[17:40:40] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[17:40:51] [Async Chat Thread - #299/INFO]: <Glloy_D> 视距好小啊
+[17:40:55] [Async Chat Thread - #298/INFO]: <wugemi> 你是被我拐来的吗
+[17:41:14] [Async Chat Thread - #298/INFO]: <Glloy_D> bilibili看到的
+[17:41:17] [Async Chat Thread - #298/INFO]: <yan_jue> 狗服主
+[17:41:20] [Async Chat Thread - #298/INFO]: <Glloy_D> 主要是因
+[17:41:24] [Async Chat Thread - #299/INFO]: <yan_jue> 调的低
+[17:41:26] [Async Chat Thread - #298/INFO]: <Glloy_D> pvp打不过
+[17:41:27] [Server thread/INFO]: Laowang826 issued server command: /res set
+[17:41:36] [Async Chat Thread - #298/INFO]: <wugemi> 我还以为是我拐来的那个
+[17:41:37] [Server thread/INFO]: Laowang826 issued server command: /res
+[17:41:40] [Server thread/INFO]: Laowang826 issued server command: /cmil rmc -6491351706885170950
+[17:41:40] [Server thread/INFO]:                        --^-- /res ? 2
+[17:42:08] [Async Chat Thread - #299/INFO]: <Glloy_D> 有解决办法吗还是全员制裁
+[17:42:14] [Server thread/INFO]: Laowang826 issued server command: /res pset LaoShuaguaita
+[17:42:18] [Server thread/INFO]: Laowang826 issued server command: /res pset LaoShuaguaita Laowang826
+[17:42:34] [Async Chat Thread - #298/INFO]: <yan_jue> 没办法，视距只有这些
+[17:42:50] [Async Chat Thread - #299/INFO]: <Glloy_D> 行吧挺好起码我的
+[17:42:56] [Server thread/INFO]: [Residence] Laowang826 issued server command: /res pset LaoShuaguaita Laowang826 fly true
+[17:43:00] [Async Chat Thread - #298/INFO]: <Glloy_D> macbook带的动
+[17:43:09] [Server thread/INFO]: Laowang826 issued server command: /back
+[17:43:11] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[17:43:25] [Server thread/INFO]: Laowang826 issued server command: /back
+[17:43:29] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[17:43:49] [Async Chat Thread - #299/INFO]: <Glloy_D> 神权吗
+[17:43:54] [Async Chat Thread - #298/INFO]: <Glloy_D> 腐竹
+[17:44:12] [Async Chat Thread - #299/INFO]: <yan_jue> 狗服主会搞事
+[17:44:21] [Async Chat Thread - #300/INFO]: <yan_jue> 就开个创造搞事情awa
+[17:44:30] [Async Chat Thread - #299/INFO]: <Glloy_D> 不神券就行
+[17:44:43] [Async Chat Thread - #300/INFO]: <yan_jue> 我挂机呢在我脸上放末影人
+[17:44:45] [Async Chat Thread - #299/INFO]: <yan_jue> md
+[17:45:35] [Async Chat Thread - #300/INFO]: <Glloy_D> 谢你哦
+[17:45:42] [Async Chat Thread - #299/INFO]: <yan_jue> awa
+[17:45:58] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[17:46:11] [Server thread/INFO]: Laowang826 issued server command: /res
+[17:46:15] [Server thread/INFO]: Laowang826 issued server command: /cmil rmc -3371234907057157328
+[17:46:15] [Server thread/INFO]:                        --^-- /res ? 2
+[17:46:17] [Server thread/INFO]: Laowang826 issued server command: /cmil rmc 3514887870196457650
+[17:46:17] [Server thread/INFO]:                        --^-- /res ? 3
+[17:46:19] [Async Chat Thread - #300/INFO]: <Glloy_D> 今天没作业（有拖欠的先拖欠）我可以玩到睡觉
+[17:46:25] [Async Chat Thread - #299/INFO]: <Glloy_D> lol
+[17:46:25] [Async Chat Thread - #300/INFO]: <yan_jue> 好家伙
+[17:46:26] [Server thread/INFO]: Laowang826 issued server command: /cmil rmc 7530011435979486167
+[17:46:26] [Server thread/INFO]:                        --^-- /res ? 4
+[17:46:35] [Server thread/INFO]: Laowang826 issued server command: /res subzone
+[17:46:42] [Server thread/INFO]: Glloy_D lost connection: 连接中断
+[17:46:42] [Server thread/INFO]: Glloy_D退出了游戏
+[17:46:46] [Server thread/INFO]: Laowang826 issued server command: /res subzone LaoShuaguaita
+[17:47:02] [Async Chat Thread - #299/INFO]: <yan_jue> 我得搞个仓库了
+[17:47:57] [Server thread/INFO]: Laowang826 issued server command: /res subzone LaoShuaguaita box
+[17:48:06] [Async Chat Thread - #301/INFO]: <yan_jue> 先做树场还是先做仓库啊，啊啊啊还有苦力怕农场aaaaa
+[17:48:33] [Server thread/INFO]: Laowang826 issued server command: /res subzone LaoShuaguaita box
+[17:48:42] [Server thread/INFO]: Laowang826 issued server command: /res
+[17:48:44] [Server thread/INFO]: Laowang826 issued server command: /cmil rmc 3745287214298640459
+[17:48:44] [Server thread/INFO]:                        --^-- /res ? 2
+[17:48:47] [Server thread/INFO]: Laowang826 issued server command: /cmil rmc 6057229021652768672
+[17:48:47] [Server thread/INFO]:                        --^-- /res ? 3
+[17:48:55] [Server thread/INFO]: Laowang826 issued server command: /cmil rmc 6393413543209539639
+[17:48:55] [Server thread/INFO]:                        --^-- /res ? 4
+[17:48:58] [Server thread/INFO]: Laowang826 issued server command: /cmil rmc 1772509020310387810
+[17:48:58] [Server thread/INFO]:                        --^-- /res ? 5
+[17:49:06] [Server thread/INFO]: Laowang826 issued server command: /cmil rmc 8429716757054272782
+[17:49:06] [Server thread/INFO]:                        --^-- /res ? 6
+[17:49:13] [Server thread/INFO]: Laowang826 issued server command: /cmil rmc -8673071043430177831
+[17:49:13] [Server thread/INFO]:                        --^-- /res ? 7
+[17:49:24] [Server thread/INFO]: Laowang826 issued server command: /res sublist
+[17:49:40] [Server thread/INFO]: Laowang826 issued server command: /res area
+[17:49:44] [Server thread/INFO]: Laowang826 issued server command: /res area list
+[17:49:50] [Async Chat Thread - #303/INFO]: <wugemi> 天啦，经验修补也太难了，刷了两天了
+[17:49:51] [Server thread/INFO]: Laowang826 issued server command: /res area listall
+[17:50:03] [Server thread/INFO]: Laowang826 issued server command: /res set
+[17:50:27] [Server thread/INFO]: [Residence] Laowang826 issued server command: /res set LaoShuaguaita.box door true
+[17:50:30] [Server thread/INFO]: [Residence] Laowang826 issued server command: /res set LaoShuaguaita.box container true
+[17:50:37] [Server thread/INFO]: Laowang826 issued server command: /res
+[17:50:42] [Server thread/INFO]: Laowang826 issued server command: /cmil rmc 1535976154575773182
+[17:50:42] [Server thread/INFO]:                        --^-- /res ? 2
+[17:50:43] [Server thread/INFO]: Laowang826 issued server command: /cmil rmc 1110987609261703653
+[17:50:43] [Server thread/INFO]:                        --^-- /res ? 3
+[17:50:44] [Server thread/INFO]: Laowang826 issued server command: /cmil rmc 2612531847184211461
+[17:50:44] [Server thread/INFO]:                        --^-- /res ? 2
+[17:51:15] [Server thread/INFO]: Laowang826 issued server command: /res message LaoShuaguaita.box enter 东西可以随便拿的
+[17:51:23] [Server thread/INFO]: Laowang826 issued server command: /res message LaoShuaguaita.box leave 拜拜
+[17:51:51] [Server thread/INFO]: Laowang826 issued server command: /res message LaoShuaguaita.box remove 拜拜
+[17:52:03] [Server thread/INFO]: Laowang826 issued server command: /res message LaoShuaguaita.box remove 拜拜
+[17:52:09] [Server thread/INFO]: Laowang826 issued server command: /res message LaoShuaguaita.box leave 拜拜
+[17:52:58] [Server thread/INFO]: Laowang826 issued server command: /res set
+[17:53:16] [Server thread/INFO]: [Residence] Laowang826 issued server command: /res set LaoShuaguaita damage false
+[17:53:21] [Server thread/INFO]: yan_jue lost connection: 连接中断
+[17:53:21] [Server thread/INFO]: yan_jue退出了游戏
+[17:53:53] [Server thread/INFO]: [Residence] Laowang826 issued server command: /res set LaoShuaguaita tp true
+[17:54:10] [Server thread/INFO]: [Residence] Laowang826 issued server command: /res set LaoShuaguaita title false
+[17:54:25] [Server thread/INFO]: Laowang826 issued server command: /res set
+[17:54:34] [Server thread/INFO]: [Residence] Laowang826 issued server command: /res set LaoShuaguaita title remove
+[17:55:07] [Async Chat Thread - #305/INFO]: <Laowang826> 我刷怪塔传送权限开了，有需要的可以来
+[17:55:17] [Async Chat Thread - #305/INFO]: <Laowang826> 领地名字是 LaoShuaguaita
+[17:55:56] [Async Chat Thread - #306/INFO]: <Laowang826> 怪物掉落物在刷怪塔后面的箱子里，权限是打开的
+[17:56:26] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[17:58:30] [Server thread/INFO]: Laowang826 issued server command: /home village
+[17:59:31] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[18:00:53] [Server thread/INFO]: wugemi issued server command: /res tp LaoShuaguaita
+[18:01:02] [Server thread/INFO]: Laowang826 issued server command: /home village
+[18:02:48] [Server thread/INFO]: wugemi issued server command: /home
+[18:02:48] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[18:03:36] [Server thread/INFO]: Laowang826 issued server command: /home village
+[18:03:55] [User Authenticator #85/INFO]: UUID of player yan_jue is a7360380-0c6a-4c8e-b00f-c99066f6bec0
+[18:03:55] [Server thread/INFO]: yan_jue加入了游戏
+[18:03:55] [Server thread/INFO]: yan_jue[/123.190.237.47:50084] logged in with entity id 812579 at ([world]-47.48806842422684, 65.0, 101.90303246834368)
+[18:04:04] [Async Chat Thread - #307/INFO]: <yan_jue> 我咋掉线了
+[18:04:12] [Async Chat Thread - #309/INFO]: <Laowang826> 不知道
+[18:05:22] [Server thread/INFO]: yan_jue issued server command: /home modimen
+[18:06:46] [Server thread/WARN]: wugemi moved too quickly! -10.32166106032021,0.2531999805212024,0.04499138591761209
+[18:06:50] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[18:08:36] [Server thread/INFO]: yan_jue被yan_jue炸死了
+[18:08:41] [Async Chat Thread - #310/INFO]: <Laowang826> yan_jue我刷怪塔传送权限开了，你需要的话可以过去
+[18:08:42] [Server thread/INFO]: yan_jue issued server command: /back
+[18:08:47] [Async Chat Thread - #310/INFO]: <yan_jue> OK
+[18:08:55] [Async Chat Thread - #310/INFO]: <Laowang826> 领地名是LaoShuaguaita
+[18:09:16] [Async Chat Thread - #311/INFO]: <Laowang826> 掉落物在刷怪塔后面的活板门里
+[18:09:21] [Async Chat Thread - #310/INFO]: <Laowang826> 箱子权限是开的
+[18:09:29] [Server thread/INFO]: wugemi issued server command: /res tp LaoShuaguaita
+[18:09:40] [Async Chat Thread - #311/INFO]: <Laowang826> 里面还有不少骨头，可以拿来骨粉催熟树
+[18:09:51] [Async Chat Thread - #311/INFO]: <yan_jue> OKK
+[18:09:55] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[18:11:50] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[18:12:45] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[18:15:08] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[18:15:09] [Server thread/INFO]: yan_jue从高处摔了下来
+[18:15:14] [Server thread/INFO]: yan_jue issued server command: /back
+[18:15:37] [User Authenticator #86/INFO]: UUID of player Glloy_D is 82153e9c-e89e-43cd-8c94-4a41999a2908
+[18:15:37] [Server thread/INFO]: Glloy_D加入了游戏
+[18:15:37] [Server thread/INFO]: Glloy_D[/222.128.120.164:60326] logged in with entity id 825036 at ([world]-107.98325344692233, 64.5, 87.28023832410626)
+[18:15:51] [Server thread/INFO]: Laowang826 issued server command: /home village
+[18:16:48] [Server thread/INFO]: Glloy_D取得了进度[石器时代]
+[18:16:53] [Server thread/INFO]: Glloy_D取得了进度[来硬的]
+[18:17:17] [Server thread/INFO]: yan_jue被末影人杀死了
+[18:17:21] [Server thread/INFO]: yan_jue issued server command: /back
+[18:17:45] [Server thread/INFO]: yan_jue被末影人杀死了
+[18:17:50] [Server thread/INFO]: yan_jue issued server command: /back
+[18:18:03] [Async Chat Thread - #313/INFO]: <wugemi> 怎么又大龙了？
+[18:18:04] [Async Chat Thread - #314/INFO]: <Laowang826> 草，末影龙爆掉的声音我在主世界都能听到
+[18:18:11] [Async Chat Thread - #314/INFO]: <yan_jue> 咳咳
+[18:18:51] [Server thread/INFO]: wugemi issued server command: /home
+[18:18:55] [Async Chat Thread - #313/INFO]: <yan_jue> 浅浅打了一下
+[18:19:45] [Async Chat Thread - #314/INFO]: <yan_jue> 把末影龙当小怪刷了awa
+[18:19:56] [User Authenticator #87/INFO]: UUID of player Dog_LX is de23f3b9-0a71-49a6-961f-e852e258cec3
+[18:19:56] [Server thread/INFO]: Dog_LX加入了游戏
+[18:19:57] [Server thread/INFO]: Dog_LX[/112.45.91.147:2082] logged in with entity id 829631 at ([world]-34.62882741249196, 66.8678969460391, 96.33860879106915)
+[18:20:02] [Server thread/INFO]: Glloy_D lost connection: 连接中断
+[18:20:02] [Server thread/INFO]: Glloy_D退出了游戏
+[18:20:08] [Async Chat Thread - #313/INFO]: <Dog_LX> 嗨嗨嗨
+[18:20:17] [Server thread/INFO]: yan_jue lost connection: 连接中断
+[18:20:17] [Server thread/INFO]: yan_jue退出了游戏
+[18:20:23] [User Authenticator #87/INFO]: UUID of player yan_jue is a7360380-0c6a-4c8e-b00f-c99066f6bec0
+[18:20:23] [Server thread/INFO]: yan_jue加入了游戏
+[18:20:23] [Server thread/INFO]: yan_jue[/123.190.237.47:50986] logged in with entity id 830170 at ([world]-83.53102465416671, 74.0, 90.90418726092918)
+[18:20:27] [Async Chat Thread - #313/INFO]: <yan_jue> awa
+[18:20:33] [Async Chat Thread - #313/INFO]: <wugemi> 狗腐竹
+[18:20:59] [Server thread/INFO]: Dog_LX issued server command: /gamemode spectator
+[18:21:07] [Server thread/INFO]: Dog_LX issued server command: /gamemode creative
+[18:21:53] [Server thread/INFO]: wugemi在墙里窒息而亡
+[18:22:02] [Async Chat Thread - #315/INFO]: <yan_jue> 这两条进的新人挺多的
+[18:22:07] [Server thread/INFO]: wugemi issued server command: /home
+[18:22:12] [Async Chat Thread - #316/INFO]: <yan_jue> 但基本都是进了就退
+[18:22:13] [Server thread/INFO]: Villager EntityVillager['图书管理员'/832268, uuid='4b7c7893-c31c-47d5-9e2e-d0a2e735461e', l='ServerLevel[world]', x=-32.87, y=63.90, z=-394.84, cpos=[-3, -25], tl=610790, v=true] died, message: '图书管理员在墙里窒息而亡'
+[18:22:26] [Async Chat Thread - #316/INFO]: <Laowang826> 可能出生地看起来太险恶了吧（
+[18:22:33] [Async Chat Thread - #316/INFO]: <wugemi> 2333
+[18:22:43] [Async Chat Thread - #316/INFO]: <yan_jue> 全怪schawa
+[18:23:30] [Async Chat Thread - #315/INFO]: <Dog_LX> 原来铁道尽头是你家
+[18:23:51] [Async Chat Thread - #316/INFO]: <yan_jue> 星穹铁道awa
+[18:24:05] [Async Chat Thread - #317/INFO]: <Dog_LX> wc
+[18:24:13] [Async Chat Thread - #316/INFO]: <Dog_LX> yan_jue 你家让我游戏开始卡了
+[18:24:19] [Async Chat Thread - #317/INFO]: <yan_jue> ??
+[18:24:20] [Async Chat Thread - #317/INFO]: <wugemi> 村民太难刷了
+[18:24:26] [Async Chat Thread - #317/INFO]: <yan_jue> 我都没事
+[18:24:29] [Async Chat Thread - #317/INFO]: <Laowang826> 机器太多了吧
+[18:24:37] [Async Chat Thread - #317/INFO]: <Dog_LX> 一到你家我游戏就开始掉帧
+[18:24:46] [Async Chat Thread - #317/INFO]: <Laowang826> 不过我也没觉得卡
+[18:24:50] [Async Chat Thread - #317/INFO]: <yan_jue> 我丝毫没有影响啊
+[18:24:55] [Async Chat Thread - #316/INFO]: <wugemi> 我也不卡
+[18:24:59] [Async Chat Thread - #316/INFO]: <Laowang826> 会不会是腐竹电脑的原因
+[18:25:21] [Async Chat Thread - #317/INFO]: <yan_jue> 服务器都不卡，服主卡awa
+[18:25:44] [Server thread/INFO]: Dog_LX issued server command: /tps
+[18:25:46] [User Authenticator #88/INFO]: Disconnecting /171.115.66.229:25728: 验证用户名失败！
+[18:25:46] [User Authenticator #88/ERROR]: Username '9Pedro' tried to join with an invalid session
+[18:25:47] [Server thread/INFO]: /171.115.66.229:25728 lost connection: 验证用户名失败！
+[18:25:47] [Async Chat Thread - #317/INFO]: <Dog_LX> a
+[18:26:06] [Async Chat Thread - #317/INFO]: <yan_jue> 机器我都关了
+[18:26:17] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[18:26:50] [Async Chat Thread - #316/INFO]: <yan_jue> 你网络问题
+[18:26:57] [Async Chat Thread - #316/INFO]: <yan_jue> 我按tab看了awa
+[18:27:08] [Async Chat Thread - #318/INFO]: <Dog_LX> 游戏掉帧和网络有关系？
+[18:27:14] [Async Chat Thread - #318/INFO]: <yan_jue> 不管
+[18:27:24] [Async Chat Thread - #316/INFO]: <yan_jue> 我们都不卡
+[18:27:26] [Async Chat Thread - #316/INFO]: <yan_jue> awa
+[18:27:36] [Async Chat Thread - #316/INFO]: <Dog_LX> 你们好电脑呗
+[18:27:41] [Async Chat Thread - #317/INFO]: <yan_jue> 我是办公本
+[18:27:42] [Async Chat Thread - #316/INFO]: <yan_jue> .
+[18:27:45] [Async Chat Thread - #316/INFO]: <Laowang826> 我也办公本
+[18:27:49] [Async Chat Thread - #316/INFO]: <Dog_LX> 我也是
+[18:27:58] [Async Chat Thread - #316/INFO]: <Laowang826> yan_jue你有羊毛吗
+[18:28:03] [Async Chat Thread - #316/INFO]: <yan_jue> 有线
+[18:28:06] [Async Chat Thread - #316/INFO]: <Dog_LX> 四千多买的笔记本
+[18:28:14] [Async Chat Thread - #316/INFO]: <Laowang826> 诶线可以做羊毛的吗
+[18:28:19] [Async Chat Thread - #316/INFO]: <yan_jue> 可以啊
+[18:28:21] [Async Chat Thread - #316/INFO]: <Laowang826> 我还以为那是mod
+[18:28:25] [Async Chat Thread - #316/INFO]: <yan_jue> ..
+[18:28:25] [Async Chat Thread - #318/INFO]: <Dog_LX> 你才知道？
+[18:28:33] [Async Chat Thread - #318/INFO]: <Laowang826> 我好多年没玩了
+[18:28:39] [Async Chat Thread - #318/INFO]: <yan_jue> 你猜我钓鱼机羊毛哪来的awa
+[18:28:48] [Async Chat Thread - #316/INFO]: <Laowang826> OvQ
+[18:29:12] [Async Chat Thread - #318/INFO]: <Laowang826> 涨知识了
+[18:29:25] [Async Chat Thread - #318/INFO]: <Dog_LX> 你这啥头盔？？
+[18:29:32] [Async Chat Thread - #319/INFO]: <yan_jue> 猪鼻
+[18:29:38] [Async Chat Thread - #319/INFO]: <Dog_LX> 两边两个卡姿兰大眼睛
+[18:29:43] [Async Chat Thread - #319/INFO]: <wugemi> 卧槽！！！！
+[18:29:46] [Async Chat Thread - #319/INFO]: <yan_jue> 猪鼻花纹
+[18:29:49] [Async Chat Thread - #319/INFO]: <wugemi> 出了
+[18:29:51] [Server thread/INFO]: Dog_LX issued server command: /tp wugemi
+[18:29:55] [Async Chat Thread - #318/INFO]: <wugemi> 经验修补
+[18:29:57] [Async Chat Thread - #316/INFO]: <Dog_LX> 32...
+[18:30:01] [Async Chat Thread - #319/INFO]: <Dog_LX> 奸商
+[18:30:15] [Async Chat Thread - #319/INFO]: <wugemi> 谁有绿宝石
+[18:30:24] [Async Chat Thread - #319/INFO]: <yan_jue> 让他旁边刷僵尸
+[18:30:27] [Async Chat Thread - #319/INFO]: <yan_jue> 打折
+[18:30:46] [Async Chat Thread - #318/INFO]: <wugemi> 别等会又刷成别的了
+[18:30:55] [Server thread/INFO]: Laowang826 issued server command: /tpa wugemi
+[18:31:02] [Server thread/INFO]: wugemi issued server command: /tpaccept
+[18:31:22] [Async Chat Thread - #319/INFO]: <Laowang826> 挖真的
+[18:31:34] [Async Chat Thread - #316/INFO]: <Laowang826> 32有点小贵
+[18:33:11] [Server thread/INFO]: wugemi issued server command: /res TP shuatieta
+[18:33:23] [Async Chat Thread - #320/INFO]: <yan_jue> 你猜我手上是什么
+[18:33:23] [Server thread/INFO]: Dog_LX issued server command: /tp -1000 ~ ~
+[18:33:31] [Server thread/INFO]: Dog_LX issued server command: /tp -500 ~ 0
+[18:33:39] [Server thread/INFO]: Dog_LX issued server command: /tp -500 ~ -500
+[18:33:42] [Async Chat Thread - #320/INFO]: <Laowang826> 经验修补....我猜QvQ
+[18:33:48] [Async Chat Thread - #322/INFO]: <yan_jue> 对了awa
+[18:33:49] [Server thread/INFO]: Dog_LX issued server command: /tp -700 ~ -700
+[18:33:59] [Server thread/INFO]: Dog_LX issued server command: /tp -700 ~ 1000
+[18:34:00] [Server thread/INFO]: wugemi issued server command: /home
+[18:34:07] [Server thread/INFO]: Dog_LX issued server command: /tp -700 ~ -2000
+[18:34:11] [Async Chat Thread - #321/INFO]: <yan_jue> 我刚才把我家牧羊人薅起来换的绿宝石
+[18:34:15] [Async Chat Thread - #321/INFO]: <Dog_LX> wugemi
+[18:34:17] [Async Chat Thread - #320/INFO]: <Dog_LX> tp我
+[18:34:36] [Async Chat Thread - #321/INFO]: <Dog_LX> 想要宝藏就tp我
+[18:34:40] [Async Chat Thread - #321/INFO]: <Laowang826> 怎么刷村民的职业
+[18:34:43] [Server thread/INFO]: wugemi issued server command: /tpa Dog_LX
+[18:34:45] [Server thread/INFO]: Dog_LX issued server command: /tpaccept
+[18:34:55] [Async Chat Thread - #320/INFO]: <yan_jue> 换职业方块
+[18:34:57] [Async Chat Thread - #321/INFO]: <wugemi> 就这。
+[18:35:01] [Async Chat Thread - #321/INFO]: <Dog_LX> 你家箱子里面翻出来的藏宝图
+[18:35:32] [Async Chat Thread - #321/INFO]: <wugemi> 破铜烂铁
+[18:35:32] [Server thread/INFO]: Dog_LX issued server command: /tpr
+[18:35:36] [Server thread/INFO]: wugemi issued server command: /home
+[18:35:37] [Server thread/INFO]: Dog_LX issued server command: /tpr
+[18:35:39] [Server thread/INFO]: Laowang826 issued server command: /home village
+[18:35:44] [Server thread/INFO]: Dog_LX issued server command: /tpr
+[18:36:30] [Async Chat Thread - #321/INFO]: <yan_jue> 早说船能换绿宝石啊，我几百艘船全销毁了awa
+[18:36:40] [User Authenticator #89/INFO]: UUID of player Glloy_D is 82153e9c-e89e-43cd-8c94-4a41999a2908
+[18:36:40] [Server thread/INFO]: Glloy_D加入了游戏
+[18:36:40] [Server thread/INFO]: Glloy_D[/222.128.120.164:62854] logged in with entity id 843038 at ([world]-90.77509230704531, 65.0, 85.74684123543611)
+[18:36:55] [Async Chat Thread - #320/INFO]: <wugemi> 又来了耶
+[18:37:03] [Async Chat Thread - #321/INFO]: <Dog_LX> 你好
+[18:37:07] [Server thread/INFO]: Dog_LX issued server command: /nickname XTL
+[18:37:22] [Async Chat Thread - #321/INFO]: <XTL> 我叫希特勒，你可以叫我元首
+[18:37:33] [Async Chat Thread - #320/INFO]: <wugemi> 这是狗腐竹，新人快骂他两句
+[18:37:43] [User Authenticator #90/INFO]: UUID of player aszxs is d39d0ef7-15bd-4a5c-95b3-6282fc05bd7d
+[18:37:43] [Server thread/INFO]: aszxs加入了游戏
+[18:37:43] [Server thread/INFO]: aszxs[/123.181.130.94:32423] logged in with entity id 843517 at ([world]-43.86703181818223, 65.0, 95.12831287263292)
+[18:38:01] [Async Chat Thread - #320/INFO]: <Glloy_D> 希你麻痹
+[18:38:08] [Async Chat Thread - #320/INFO]: <wugemi> 23333
+[18:38:11] [Async Chat Thread - #321/INFO]: <XTL> 我好用的好吃的给你们供着，你们到头来还要骂我？？
+[18:38:14] [Async Chat Thread - #323/INFO]: <Glloy_D> 傻逼希特勒
+[18:38:18] [Async Chat Thread - #323/INFO]: <yan_jue> 我超，樱花披风？
+[18:38:22] [Async Chat Thread - #323/INFO]: <Glloy_D> 杀犹太人
+[18:38:26] [Async Chat Thread - #320/INFO]: <wugemi> 谁
+[18:38:33] [Async Chat Thread - #321/INFO]: <XTL> 樱花披风谁没有啊
+[18:38:38] [Async Chat Thread - #321/INFO]: <Glloy_D> 低调低调
+[18:38:38] [Async Chat Thread - #320/INFO]: <yan_jue> 我没有
+[18:38:44] [Async Chat Thread - #320/INFO]: <XTL> 我马上退出去换
+[18:38:45] [Server thread/INFO]: Dog_LX lost connection: 连接中断
+[18:38:45] [Server thread/INFO]: Dog_LX退出了游戏
+[18:38:46] [Async Chat Thread - #321/INFO]: <yan_jue> awa
+[18:38:59] [Async Chat Thread - #323/INFO]: <wugemi> 啊 我也没有
+[18:39:43] [Server thread/INFO]: yan_jue issued server command: /res TP laoshuaguaita
+[18:39:44] [Async Chat Thread - #321/INFO]: <wugemi> 给点绿宝石
+[18:39:52] [Async Chat Thread - #323/INFO]: <aszxs> 为什么
+[18:39:58] [User Authenticator #91/INFO]: UUID of player Dog_LX is de23f3b9-0a71-49a6-961f-e852e258cec3
+[18:39:58] [Server thread/INFO]: Dog_LX加入了游戏
+[18:39:58] [Server thread/INFO]: Dog_LX[/112.45.91.147:2428] logged in with entity id 844811 at ([world]431.6584497239975, 69.0, -1093.0910598980836)
+[18:39:59] [Async Chat Thread - #321/INFO]: <wugemi> QIUQIU
+[18:40:20] [Async Chat Thread - #323/INFO]: <Glloy_D> show me your cherry cape
+[18:41:49] [Server thread/INFO]: yan_jue issued server command: /back
+[18:42:12] [Async Chat Thread - #324/INFO]: <wugemi> 3Q
+[18:42:26] [Server thread/INFO]: Glloy_D取得了进度[怪物猎人]
+[18:42:35] [Async Chat Thread - #325/INFO]: <Glloy_D> 有死忘不掉落吗
+[18:42:42] [Async Chat Thread - #325/INFO]: <wugemi> 有
+[18:42:46] [Async Chat Thread - #324/INFO]: <Glloy_D> najiuhao
+[18:43:11] [Server thread/INFO]: Glloy_D issued server command: /kill
+[18:43:11] [Server thread/INFO]: [Essentials] Glloy_D被拒绝使用命令。
+[18:43:32] [Async Chat Thread - #325/INFO]: <Laowang826> 领地能防雷击着火吗
+[18:44:01] [Async Chat Thread - #325/INFO]: <yan_jue> 不知道
+[18:44:05] [Async Chat Thread - #324/INFO]: <Laowang826> 我围村民用的全是木制品，怕打雷给烧了QvQ
+[18:44:13] [Server thread/INFO]: wugemi issued server command: /res tp shuatieta
+[18:44:38] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[18:44:43] [Server thread/INFO]: wugemi issued server command: /home
+[18:45:01] [Async Chat Thread - #325/INFO]: <Laowang826> 那我封个木质的顶吧...
+[18:45:11] [Server thread/INFO]: wugemi issued server command: /res tp shuatieta
+[18:45:12] [Async Chat Thread - #326/INFO]: <Laowang826> 石制的
+[18:45:43] [Server thread/INFO]: Glloy_D淹死了
+[18:45:52] [Server thread/INFO]: wugemi issued server command: /home
+[18:47:40] [User Authenticator #92/INFO]: UUID of player skost12 is 7988b94d-8570-4e19-8633-c63c6f142cb1
+[18:47:40] [Server thread/INFO]: skost12加入了游戏
+[18:47:40] [Server thread/INFO]: skost12[/111.0.165.32:15440] logged in with entity id 854779 at ([world]-836.0446276694323, 90.0, -992.3000000119209)
+[18:48:06] [Server thread/INFO]: skost12 issued server command: /home home2
+[18:50:49] [Server thread/INFO]: wugemi取得了进度[钻石护体]
+[18:51:09] [Server thread/INFO]: skost12 issued server command: /
+[18:51:29] [Server thread/INFO]: skost12 issued server command: /home diyu
+[18:51:48] [Server thread/INFO]: skost12 issued server command: /res tp xiaoheita
+[18:51:49] [Async Chat Thread - #328/INFO]: <XTL> 能
+[18:51:52] [Async Chat Thread - #328/INFO]: <XTL> aihaihai1
+[18:51:53] [Server thread/INFO]: skost12 issued server command: /res tp xiaoheita
+[18:51:54] [Async Chat Thread - #330/INFO]: <XTL> 嗨嗨嗨
+[18:52:00] [Server thread/INFO]: Dog_LX issued server command: /list
+[18:52:02] [Server thread/INFO]: Dog_LX issued server command: /tps
+[18:52:03] [Async Chat Thread - #330/INFO]: <skost12> ……
+[18:52:07] [Async Chat Thread - #330/INFO]: <yan_jue> ...
+[18:52:10] [Server thread/INFO]: skost12 issued server command: /back
+[18:52:13] [Async Chat Thread - #330/INFO]: <XTL> 。。。。
+[18:52:13] [Async Chat Thread - #330/INFO]: <Glloy_D> ...
+[18:52:32] [Async Chat Thread - #329/INFO]: <yan_jue> 拿到林地府邸的地图了
+[18:52:33] [Server thread/INFO]: Dog_LX issued server command: /tpr
+[18:52:41] [Server thread/INFO]: Dog_LX issued server command: /tp yan_jue
+[18:52:45] [Server thread/INFO]: Dog_LX issued server command: /invsee yan_jue
+[18:53:06] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[18:53:10] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[18:53:16] [Async Chat Thread - #329/INFO]: <XTL> 服务器就是不突破8人啊
+[18:53:20] [Async Chat Thread - #329/INFO]: <XTL> 一直最高7人
+[18:53:26] [Async Chat Thread - #330/INFO]: <Glloy_D> 宣传啊
+[18:53:31] [Async Chat Thread - #330/INFO]: <Glloy_D> 还有个性化
+[18:53:32] [Async Chat Thread - #330/INFO]: <XTL> 服务器才开
+[18:53:59] [Server thread/INFO]: Dog_LX issued server command: /speed fly 10
+[18:54:15] [Server thread/INFO]: Laowang826 issued server command: /home village
+[18:54:27] [Server thread/INFO]: Dog_LX issued server command: /tps
+[18:54:41] [Server thread/INFO]: Dog_LX issued server command: /tps
+[18:54:42] [Async Chat Thread - #331/INFO]: <XTL> e
+[18:54:53] [Async Chat Thread - #332/INFO]: <Glloy_D> 我的
+[18:55:00] [Async Chat Thread - #331/INFO]: <XTL> 我好像跑图给服务器跑卡了
+[18:55:01] [Async Chat Thread - #332/INFO]: <Glloy_D> magic
+[18:55:05] [Async Chat Thread - #333/INFO]: <Glloy_D> mouse
+[18:55:07] [Async Chat Thread - #333/INFO]: <yan_jue> 不卡啊
+[18:55:10] [Server thread/INFO]: Dog_LX issued server command: /tps
+[18:55:21] [Async Chat Thread - #332/INFO]: <Glloy_D> 总是轮
+[18:55:43] [Async Chat Thread - #332/INFO]: <XTL> 硬生生跑边界了
+[18:55:47] [Async Chat Thread - #333/INFO]: <XTL> 重出生地
+[18:55:50] [Async Chat Thread - #332/INFO]: <Glloy_D> 我的magic mous总是滚轮我服了
+[18:56:00] [Server thread/INFO]: Dog_LX issued server command: /tp yan_jue
+[18:56:20] [Async Chat Thread - #332/INFO]: <yan_jue> 末地四个边界我都见过了
+[18:56:57] [Async Chat Thread - #333/INFO]: <XTL> 我远处看你好像苍蝇
+[18:57:02] [Server thread/INFO]: Dog_LX issued server command: /tp yan_jue
+[18:57:10] [Async Chat Thread - #334/INFO]: <yan_jue> 到林地府邸了
+[18:57:25] [Server thread/INFO]: Glloy_D issued server command: /res tool
+[18:57:29] [Async Chat Thread - #333/INFO]: <yan_jue> 有人来不
+[18:57:48] [Server thread/INFO]: Dog_LX issued server command: /tps
+[18:57:51] [Server thread/INFO]: Dog_LX issued server command: /tps
+[18:57:54] [Server thread/INFO]: Dog_LX issued server command: /tps
+[18:57:59] [Async Chat Thread - #334/INFO]: <Laowang826> 我在做交易所，不来呢
+[18:58:46] [Server thread/INFO]: Dog_LX issued server command: /tp Glloy_D
+[18:58:55] [Server thread/INFO]: Glloy_D issued server command: /res create Glloy's 烹房
+[18:59:16] [Server thread/INFO]: Dog_LX issued server command: /tp Laowang826
+[18:59:18] [Server thread/INFO]: Glloy_D issued server command: /res create glloy的烹饪
+[18:59:42] [Async Chat Thread - #335/INFO]: <Laowang826> 腐竹好鬼畜2333
+[18:59:59] [Server thread/INFO]: Glloy_D issued server command: /res create cookglloy
+[19:00:00] [Async Chat Thread - #336/INFO]: <yan_jue> 别硬夸
+[19:00:09] [Async Chat Thread - #336/INFO]: <skost12> 想笑
+[19:00:16] [Server thread/INFO]: Dog_LX issued server command: /tp skost12
+[19:00:20] [Async Chat Thread - #336/INFO]: <skost12> ?
+[19:00:37] [Server thread/INFO]: Dog_LX issued server command: /tp skost12
+[19:00:42] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[19:00:42] [Server thread/INFO]: Dog_LX issued server command: /tp yan_jue
+[19:01:33] [Server thread/INFO]: Laowang826 issued server command: /home village
+[19:01:56] [Server thread/INFO]: Glloy_D取得了进度[勇往直下]
+[19:05:06] [Server thread/INFO]: wugemi lost connection: 连接中断
+[19:05:06] [Server thread/INFO]: wugemi退出了游戏
+[19:07:13] [Server thread/INFO]: Laowang826从高处摔了下来
+[19:07:17] [Server thread/INFO]: Laowang826 issued server command: /home village
+[19:07:30] [Server thread/INFO]: Laowang826 issued server command: /home village
+[19:08:21] [Server thread/INFO]: Laowang826 issued server command: /home village
+[19:08:29] [Server thread/INFO]: skost12被僵尸杀死了
+[19:08:32] [Server thread/INFO]: Laowang826 issued server command: /home village
+[19:08:32] [Server thread/INFO]: skost12 issued server command: /back
+[19:09:42] [Server thread/INFO]: Glloy_D淹死了
+[19:09:52] [Server thread/INFO]: Glloy_D lost connection: 连接中断
+[19:09:52] [Server thread/INFO]: Glloy_D退出了游戏
+[19:11:40] [User Authenticator #93/INFO]: UUID of player Glloy_D is 82153e9c-e89e-43cd-8c94-4a41999a2908
+[19:11:40] [Server thread/INFO]: Glloy_D加入了游戏
+[19:11:40] [Server thread/INFO]: Glloy_D[/222.128.120.164:50120] logged in with entity id 899482 at ([world]60.92096028358592, 64.0, 97.81709812030121)
+[19:11:43] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[19:12:00] [Server thread/INFO]: Laowang826 issued server command: /home village
+[19:12:02] [User Authenticator #93/INFO]: UUID of player YoloPeri is fd062443-f78b-4051-a8a7-f29bef0c53a6
+[19:12:02] [Server thread/INFO]: YoloPeri加入了游戏
+[19:12:02] [Server thread/INFO]: YoloPeri[/111.18.176.104:8010] logged in with entity id 900047 at ([world]16.5, 79.0, 208.5)
+[19:12:02] [Server thread/INFO]: YoloPeri取得了进度[获得升级]
+[19:12:07] [Server thread/INFO]: yan_jue issued server command: /res TP 1
+[19:12:10] [Async Chat Thread - #337/INFO]: <skost12> 欢迎
+[19:12:15] [Async Chat Thread - #338/INFO]: <yan_jue> 欢迎
+[19:12:20] [Async Chat Thread - #337/INFO]: <Glloy_D> 欢迎
+[19:12:22] [Async Chat Thread - #338/INFO]: <Laowang826> 欢迎
+[19:12:24] [Async Chat Thread - #337/INFO]: <aszxs> 欢迎
+[19:12:30] [Async Chat Thread - #337/INFO]: <YoloPeri> H
+[19:13:48] [Server thread/INFO]: aszxs被骷髅射杀
+[19:13:57] [Server thread/INFO]: aszxs issued server command: /back
+[19:14:16] [Server thread/INFO]: YoloPeri取得了进度[勇往直下]
+[19:14:18] [Async Chat Thread - #339/INFO]: <XTL> 欢迎
+[19:14:24] [Async Chat Thread - #340/INFO]: <skost12> OK 服务器7个人了
+[19:14:28] [Server thread/INFO]: Dog_LX issued server command: /list
+[19:14:34] [Server thread/INFO]: Dog_LX issued server command: /tps
+[19:14:35] [Server thread/INFO]: Dog_LX issued server command: /list
+[19:14:37] [Server thread/INFO]: Dog_LX issued server command: /tps
+[19:15:35] [Server thread/INFO]: aszxs被蜘蛛杀死了
+[19:15:43] [Server thread/INFO]: skost12被僵尸杀死了
+[19:15:48] [Server thread/INFO]: skost12 issued server command: /back\
+[19:15:54] [Async Chat Thread - #341/INFO]: <yan_jue> skost12 你刷石机好像炸膛了
+[19:15:57] [Async Chat Thread - #341/INFO]: <skost12> 啊
+[19:15:58] [Async Chat Thread - #341/INFO]: <yan_jue> 我路过
+[19:16:00] [Server thread/INFO]: Dog_LX issued server command: /tp yan_jue
+[19:16:01] [Async Chat Thread - #341/INFO]: <yan_jue> 看到了
+[19:16:02] [Server thread/INFO]: skost12 issued server command: /home home2
+[19:16:02] [Server thread/WARN]: skost12 moved too quickly! -727.1162735995546,8.0,-1080.1994787996114
+[19:16:07] [Server thread/INFO]: Dog_LX issued server command: /speed fly 1
+[19:16:15] [Async Chat Thread - #341/INFO]: <skost12> 出门光机关了
+[19:16:17] [Server thread/INFO]: Dog_LX issued server command: /speed fly 2
+[19:16:20] [Async Chat Thread - #341/INFO]: <skost12> 忘关了
+[19:16:24] [Async Chat Thread - #342/INFO]: <yan_jue> 哈哈哈
+[19:16:26] [Server thread/INFO]: Dog_LX issued server command: /speed fly 1.5
+[19:16:27] [Async Chat Thread - #341/INFO]: <Glloy_D> lol
+[19:16:32] [Async Chat Thread - #342/INFO]: <skost12> 寄
+[19:16:41] [Server thread/INFO]: YoloPeri被Glloy_D杀死了
+[19:16:50] [Async Chat Thread - #342/INFO]: <XTL> ?
+[19:16:50] [Async Chat Thread - #342/INFO]: <Glloy_D> hhh
+[19:16:52] [Server thread/INFO]: YoloPeri lost connection: 连接中断
+[19:16:53] [Server thread/INFO]: YoloPeri退出了游戏
+[19:16:54] [Async Chat Thread - #342/INFO]: <Glloy_D> 开玩笑的
+[19:16:57] [Async Chat Thread - #341/INFO]: <XTL> 6
+[19:17:00] [Async Chat Thread - #342/INFO]: <aszxs> 6
+[19:17:03] [Async Chat Thread - #341/INFO]: <yan_jue> 6
+[19:17:06] [Async Chat Thread - #341/INFO]: <skost12> 。。。
+[19:17:14] [Async Chat Thread - #341/INFO]: <Glloy_D> 不是
+[19:17:15] [User Authenticator #94/INFO]: UUID of player YoloPeri is fd062443-f78b-4051-a8a7-f29bef0c53a6
+[19:17:15] [Server thread/INFO]: YoloPeri加入了游戏
+[19:17:15] [Server thread/INFO]: YoloPeri[/111.18.176.104:8029] logged in with entity id 908990 at ([world]65.22975042089702, 64.0, 90.63263395760505)
+[19:17:23] [Async Chat Thread - #341/INFO]: <Glloy_D> 我开玩笑的
+[19:17:25] [Server thread/INFO]: Glloy_D被YoloPeri杀死了
+[19:17:25] [Async Chat Thread - #343/INFO]: <skost12> 你干啥呢
+[19:17:28] [Async Chat Thread - #343/INFO]: <skost12> 6
+[19:17:33] [Async Chat Thread - #343/INFO]: <skost12> 《开玩笑的》
+[19:17:57] [Async Chat Thread - #343/INFO]: <skost12> 啊啊啊啊啊啊啊啊我的刷石机
+[19:18:00] [Server thread/INFO]: YoloPeri淹死了
+[19:18:20] [Async Chat Thread - #341/INFO]: <yan_jue> 还是我的刷石机以稳定
+[19:18:34] [Async Chat Thread - #343/INFO]: <skost12> 老是出门没关
+[19:18:38] [Server thread/INFO]: YoloPeri lost connection: 连接中断
+[19:18:38] [Server thread/INFO]: YoloPeri退出了游戏
+[19:18:50] [Async Chat Thread - #343/INFO]: <Laowang826> 原来不关刷石机还会炸膛的吗
+[19:18:55] [Async Chat Thread - #344/INFO]: <yan_jue> 不是
+[19:18:58] [Async Chat Thread - #344/INFO]: <skost12> 石头够用先不修了
+[19:19:02] [Async Chat Thread - #343/INFO]: <yan_jue> 频率高会炸
+[19:19:15] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[19:19:18] [Async Chat Thread - #344/INFO]: <yan_jue> 我那个自由调频的没事
+[19:19:20] [Server thread/INFO]: Laowang826 issued server command: /back
+[19:19:23] [Async Chat Thread - #343/INFO]: <yan_jue> awa
+[19:19:32] [Async Chat Thread - #344/INFO]: <skost12> 我得把频率调低了
+[19:19:49] [Server thread/INFO]: skost12 issued server command: /back
+[19:19:55] [Async Chat Thread - #344/INFO]: <yan_jue> 我路过刚想提醒你调低它就炸膛了
+[19:19:57] [Async Chat Thread - #344/INFO]: <Glloy_D> kao
+[19:19:59] [Async Chat Thread - #344/INFO]: <Glloy_D> 考察
+[19:19:59] [Async Chat Thread - #343/INFO]: <skost12> 6
+[19:20:03] [Async Chat Thread - #343/INFO]: <Glloy_D> 靠
+[19:20:19] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[19:20:45] [Server thread/INFO]: skost12 issued server command: /home home2
+[19:20:52] [Server thread/INFO]: Dog_LX issued server command: /tp yan_jue
+[19:21:09] [Server thread/INFO]: Glloy_D取得了进度[成交！]
+[19:21:14] [Async Chat Thread - #345/INFO]: <XTL> 这
+[19:21:21] [Async Chat Thread - #346/INFO]: <XTL> 高256的大山
+[19:21:40] [Async Chat Thread - #346/INFO]: <XTL> 这座山高度255
+[19:21:57] [Server thread/INFO]: yan_jue被守卫者杀死了
+[19:22:01] [Server thread/INFO]: yan_jue issued server command: /back
+[19:22:10] [Server thread/INFO]: Laowang826 issued server command: /back
+[19:22:48] [Server thread/INFO]: Laowang826 issued server command: /back
+[19:23:16] [Server thread/INFO]: yan_jue issued server command: /back
+[19:23:24] [Server thread/INFO]: yan_jue issued server command: /back
+[19:24:38] [Server thread/INFO]: yan_jue在试图逃离远古守卫者时淹死了
+[19:24:41] [Server thread/INFO]: yan_jue issued server command: /back
+[19:24:47] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[19:24:54] [Server thread/INFO]: Glloy_D取得了进度[腥味十足的生意]
+[19:25:15] [Server thread/INFO]: Laowang826 issued server command: /back
+[19:25:20] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[19:25:26] [Server thread/INFO]: yan_jue在试图逃离守卫者时淹死了
+[19:25:30] [Async Chat Thread - #347/INFO]: <Glloy_D> LOL
+[19:25:30] [Server thread/INFO]: yan_jue issued server command: /back
+[19:25:51] [Async Chat Thread - #348/INFO]: <yan_jue> 典
+[19:25:59] [Server thread/INFO]: Dog_LX issued server command: /tp yan_jue
+[19:26:02] [Server thread/INFO]: Dog_LX issued server command: /tp Glloy_D
+[19:26:14] [Server thread/INFO]: Laowang826 issued server command: /home village
+[19:26:15] [Async Chat Thread - #347/INFO]: <Glloy_D> CHERRY
+[19:26:22] [Async Chat Thread - #347/INFO]: <Glloy_D> 额
+[19:26:25] [Async Chat Thread - #348/INFO]: <yan_jue> 美式小鬼
+[19:26:41] [Async Chat Thread - #347/INFO]: <Glloy_D> 靠
+[19:26:47] [Async Chat Thread - #348/INFO]: <Glloy_D> 只有经验
+[19:27:12] [Async Chat Thread - #348/INFO]: <Glloy_D> e
+[19:27:25] [User Authenticator #95/INFO]: UUID of player t_chimin is aa11f6ca-9f24-4c46-a32b-4f6411fa5998
+[19:27:25] [Server thread/INFO]: t_chimin加入了游戏
+[19:27:25] [Server thread/INFO]: t_chimin[/39.144.86.84:60990] logged in with entity id 927851 at ([world]16.5, 79.0, 208.5)
+[19:27:25] [Server thread/INFO]: t_chimin取得了进度[获得升级]
+[19:27:32] [Async Chat Thread - #348/INFO]: <Glloy_D> 欢迎
+[19:27:35] [Async Chat Thread - #347/INFO]: <XTL> 欢迎
+[19:27:37] [Async Chat Thread - #348/INFO]: <skost12> 欢迎
+[19:27:40] [Async Chat Thread - #347/INFO]: <aszxs> 欢迎
+[19:27:41] [Async Chat Thread - #349/INFO]: <Laowang826> 欢迎
+[19:27:53] [Server thread/INFO]: yan_jue淹死了
+[19:27:56] [Server thread/INFO]: yan_jue issued server command: /back
+[19:27:58] [Server thread/INFO]: t_chimin lost connection: 连接中断
+[19:27:58] [Server thread/INFO]: t_chimin退出了游戏
+[19:27:59] [Server thread/INFO]: skost12 issued server command: /
+[19:27:59] [Async Chat Thread - #348/INFO]: <XTL> c
+[19:28:02] [Async Chat Thread - #348/INFO]: <skost12> 6
+[19:28:05] [Server thread/INFO]: skost12 issued server command: /delhome diyu
+[19:28:09] [Server thread/INFO]: skost12 issued server command: /sethome cun
+[19:28:19] [Async Chat Thread - #348/INFO]: <Laowang826> 被出生点吓跑了（
+[19:28:43] [Server thread/INFO]: skost12 issued server command: /home home2
+[19:28:49] [Async Chat Thread - #348/INFO]: <yan_jue> 死回家拿东西吧，唉
+[19:29:13] [Server thread/INFO]: Dog_LX issued server command: /spawn
+[19:29:32] [Server thread/INFO]: yan_jue淹死了
+[19:30:23] [Async Chat Thread - #350/INFO]: <Glloy_D> damn man real 勾芡 you feel know 3
+[19:30:25] [Server thread/WARN]: skost12 moved too quickly! -10.028295303964114,-1.252203340253729,-0.6068184629829148
+[19:30:25] [Server thread/WARN]: Glloy_D moved too quickly! 0.08436249302241094,0.7531999805212024,-10.27333724959361
+[19:30:35] [Async Chat Thread - #351/INFO]: <XTL> 哪个傻逼砍树不砍玩
+[19:30:40] [Async Chat Thread - #350/INFO]: <XTL> 完
+[19:30:44] [Async Chat Thread - #350/INFO]: <skost12> 美逝男孩
+[19:30:55] [Server thread/INFO]: yan_jue issued server command: /back
+[19:31:37] [Server thread/INFO]: yan_jue淹死了
+[19:31:39] [Server thread/INFO]: yan_jue issued server command: /back
+[19:32:15] [Server thread/INFO]: yan_jue淹死了
+[19:32:18] [Server thread/INFO]: yan_jue issued server command: /back
+[19:32:53] [Server thread/INFO]: yan_jue淹死了
+[19:32:56] [Server thread/INFO]: yan_jue issued server command: /back
+[19:33:30] [Server thread/INFO]: yan_jue淹死了
+[19:33:50] [Server thread/INFO]: Laowang826 issued server command: /res tp LaoShuaguaita
+[19:33:52] [Async Chat Thread - #353/INFO]: <yan_jue> 掏玩收工
+[19:34:08] [Server thread/INFO]: Laowang826 issued server command: /back
+[19:34:14] [Server thread/INFO]: Laowang826 issued server command: /home village
+[19:34:51] [User Authenticator #96/INFO]: UUID of player Schiwc is 64bab3b8-330b-49a6-99bd-e0f62730a325
+[19:34:51] [Server thread/INFO]: Schiwc加入了游戏
+[19:34:51] [Server thread/INFO]: Schiwc[/222.84.53.249:33932] logged in with entity id 940464 at ([world]65.5, 64.0, 88.5)
+[19:35:20] [Async Chat Thread - #354/INFO]: <XTL> 6
+[19:35:31] [Server thread/INFO]: Schiwc lost connection: 连接中断
+[19:35:31] [Server thread/INFO]: Schiwc退出了游戏
+[19:35:47] [User Authenticator #96/INFO]: UUID of player Schiwc is 64bab3b8-330b-49a6-99bd-e0f62730a325
+[19:35:47] [Server thread/INFO]: Schiwc加入了游戏
+[19:35:47] [Server thread/INFO]: Schiwc[/222.84.53.249:34309] logged in with entity id 941620 at ([world]73.47499746494846, 65.0, 122.49710984288762)
+[19:36:44] [Server thread/INFO]: Schiwc issued server command: /home
+[19:36:54] [Server thread/INFO]: Glloy_D取得了进度[这不是铁镐么]
+[19:37:18] [Server thread/INFO]: Glloy_D取得了进度[甜蜜的梦]
+[19:38:04] [Async Chat Thread - #356/INFO]: <XTL> 我刚种的树
+[19:38:52] [Async Chat Thread - #357/INFO]: <XTL> 我刚种的白桦林就被你看光了
+[19:39:10] [Async Chat Thread - #358/INFO]: <yan_jue> 传下去，腐竹被看光了
+[19:39:21] [Async Chat Thread - #358/INFO]: <Glloy_D> 你不是创造吗
+[19:39:24] [Async Chat Thread - #358/INFO]: <Glloy_D> lol
+[19:39:38] [Async Chat Thread - #356/INFO]: <yan_jue> 典
+[19:40:11] [Async Chat Thread - #359/INFO]: <yan_jue> 谁tm总刨我书架啊
+[19:40:28] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[19:40:29] [Async Chat Thread - #359/INFO]: <Glloy_D> 不知道啊‘
+[19:40:35] [Server thread/INFO]: Laowang826 issued server command: /home village
+[19:40:51] [Server thread/INFO]: Laowang826 issued server command: /home village
+[19:42:04] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[19:42:13] [Server thread/INFO]: Laowang826 issued server command: /home village
+[19:43:44] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[19:43:51] [Server thread/INFO]: Laowang826 issued server command: /home village
+[19:44:45] [Server thread/INFO]: aszxs lost connection: 连接中断
+[19:44:45] [Server thread/INFO]: aszxs退出了游戏
+[19:45:05] [Server thread/INFO]: Laowang826 issued server command: /home village
+[19:45:43] [Server thread/INFO]: Laowang826 issued server command: /res create village
+[19:45:50] [Server thread/INFO]: Schiwc lost connection: 连接中断
+[19:45:50] [Server thread/INFO]: Schiwc退出了游戏
+[19:46:25] [Server thread/INFO]: Laowang826 issued server command: /res
+[19:46:27] [Server thread/INFO]: Laowang826 issued server command: /cmil rmc 898731871577653549
+[19:46:27] [Server thread/INFO]:                        --^-- /res ? 2
+[19:46:30] [Server thread/INFO]: Laowang826 issued server command: /cmil rmc 8488513801162924164
+[19:46:30] [Server thread/INFO]:                        --^-- /res ? 3
+[19:46:33] [Server thread/INFO]: Laowang826 issued server command: /cmil rmc -8123413141390703574
+[19:46:33] [Server thread/INFO]:                        --^-- /res ? 2
+[19:46:34] [Server thread/INFO]: Laowang826 issued server command: /cmil rmc -8451907256532913854
+[19:46:34] [Server thread/INFO]:                        --^-- /res ? 1
+[19:46:38] [Server thread/INFO]: Laowang826 issued server command: /res tpset
+[19:47:02] [Server thread/INFO]: Laowang826 lost connection: 连接中断
+[19:47:02] [Server thread/INFO]: Laowang826退出了游戏
+[19:47:05] [Async Chat Thread - #360/INFO]: <XTL> ?
+[19:47:10] [Async Chat Thread - #360/INFO]: <XTL> 怎么都退了
+[19:47:18] [Async Chat Thread - #362/INFO]: <yan_jue> 不知道
+[19:47:20] [Server thread/INFO]: yan_jue lost connection: 连接中断
+[19:47:20] [Server thread/INFO]: yan_jue退出了游戏
+[19:47:45] [User Authenticator #97/INFO]: UUID of player yan_jue is a7360380-0c6a-4c8e-b00f-c99066f6bec0
+[19:47:45] [Server thread/INFO]: yan_jue加入了游戏
+[19:47:45] [Server thread/INFO]: yan_jue[/123.190.237.47:52965] logged in with entity id 957286 at ([world]-72.41769659630941, 67.0, 101.35194764246353)
+[19:53:01] [Server thread/INFO]: yan_jue被僵尸杀死了
+[19:58:00] [User Authenticator #98/INFO]: UUID of player aszxs is d39d0ef7-15bd-4a5c-95b3-6282fc05bd7d
+[19:58:00] [Server thread/INFO]: aszxs加入了游戏
+[19:58:00] [Server thread/INFO]: aszxs[/123.181.130.94:31917] logged in with entity id 969671 at ([world]-429.04781505318476, 64.0, 196.21327325386213)
+[19:58:43] [Server thread/INFO]: Glloy_D lost connection: 连接中断
+[19:58:43] [Server thread/INFO]: Glloy_D退出了游戏
+[20:04:32] [Server thread/INFO]: Dog_LX issued server command: /tp Dog_LX
+[20:04:35] [Server thread/INFO]: Dog_LX issued server command: /tp yan_jue
+[20:05:02] [Server thread/INFO]: Dog_LX lost connection: 连接中断
+[20:05:02] [Server thread/INFO]: Dog_LX退出了游戏
+[20:10:34] [Server thread/INFO]: skost12 lost connection: 连接中断
+[20:10:34] [Server thread/INFO]: skost12退出了游戏
+[20:13:33] [Server thread/INFO]: aszxs被苦力怕炸死了
+[20:13:44] [Server thread/INFO]: aszxs issued server command: /back
+[20:24:51] [User Authenticator #99/INFO]: UUID of player wugemi is 43df6199-2f49-40f1-bfb1-036396d2992b
+[20:24:51] [Server thread/INFO]: wugemi加入了游戏
+[20:24:51] [Server thread/INFO]: wugemi[/111.18.176.104:7984] logged in with entity id 989169 at ([world]-31.79116269542084, 64.875, -387.7617047816048)
+[20:28:22] [Server thread/INFO]: wugemi issued server command: /res tp shuatieta
+[20:30:25] [User Authenticator #100/INFO]: UUID of player YoloPeri is fd062443-f78b-4051-a8a7-f29bef0c53a6
+[20:30:25] [Server thread/INFO]: YoloPeri加入了游戏
+[20:30:25] [Server thread/INFO]: YoloPeri[/111.18.176.104:7950] logged in with entity id 991971 at ([world]-3.9792838868174853, 54.0, 98.24497976104122)
+[20:32:51] [Server thread/INFO]: YoloPeri issued server command: /tpa aszxs
+[20:33:05] [Server thread/INFO]: aszxs issued server command: /tpaccept
+[20:33:55] [Server thread/INFO]: yan_jue issued server command: /back
+[20:34:02] [Server thread/INFO]: yan_jue issued server command: /res TP 1
+[20:35:09] [Server thread/INFO]: aszxs取得了进度[甜蜜的梦]
+[20:35:43] [Server thread/INFO]: YoloPeri被末影人杀死了
+[20:37:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@77d8358f[id=<null>,name=hue,properties={},legacy=false] (/120.235.224.53:15067) lost connection: 连接中断
+[20:38:23] [Server thread/INFO]: YoloPeri lost connection: 连接中断
+[20:38:23] [Server thread/INFO]: YoloPeri退出了游戏
+[20:47:12] [Server thread/INFO]: yan_jue issued server command: /res TP 1
+[20:57:37] [Async Chat Thread - #366/INFO]: <yan_jue> 挖红石去了
+[20:57:43] [Async Chat Thread - #366/INFO]: <yan_jue> 还差一堆AWA
+[21:03:44] [Server thread/INFO]: yan_jue issued server command: /res TP 1
+[21:14:21] [User Authenticator #101/INFO]: UUID of player chen_mo24 is bfd5b2ab-759c-4c67-bd38-352f29ddd2d2
+[21:14:21] [Server thread/INFO]: chen_mo24加入了游戏
+[21:14:21] [Server thread/INFO]: chen_mo24[/121.233.214.125:4757] logged in with entity id 1010476 at ([world]-365.9771802051255, -28.0, 115.33186579262178)
+[21:15:32] [Server thread/INFO]: chen_mo24 issued server command: /back
+[21:17:34] [Async Chat Thread - #369/INFO]: <chen_mo24> 好六啊！
+[21:17:53] [Async Chat Thread - #369/INFO]: <aszxs> 马了
+[21:18:12] [Async Chat Thread - #370/INFO]: <aszxs> 马上了
+[21:18:22] [Async Chat Thread - #369/INFO]: <yan_jue> 啊啊啊我要疯了
+[21:18:32] [Async Chat Thread - #369/INFO]: <chen_mo24> 怎么了？
+[21:18:36] [Server thread/INFO]: wugemi issued server command: /home
+[21:18:47] [Async Chat Thread - #370/INFO]: <yan_jue> 你来我家看一眼就知道了
+[21:18:50] [Async Chat Thread - #369/INFO]: <yan_jue> AWA
+[21:19:22] [Server thread/INFO]: chen_mo24 issued server command: /tpa yan_jue
+[21:19:31] [Server thread/INFO]: yan_jue issued server command: /tpaccept
+[21:19:31] [Server thread/WARN]: chen_mo24 moved too quickly! 403.7326758787462,-1.0,-113.73146567858637
+[21:20:05] [Async Chat Thread - #371/INFO]: <chen_mo24> 怎么啦？
+[21:20:43] [Server thread/INFO]: chen_mo24取得了进度[附魔师]
+[21:20:46] [Async Chat Thread - #372/INFO]: <yan_jue> 树场快累死我了AWA
+[21:21:18] [Async Chat Thread - #371/INFO]: <chen_mo24> 为什么不做自动？砍树机呢？
+[21:21:23] [Async Chat Thread - #371/INFO]: <yan_jue> 这个就是
+[21:21:28] [Server thread/INFO]: aszxs issued server command: /tpa chen_mo24
+[21:21:36] [Async Chat Thread - #372/INFO]: <chen_mo24> 我说的是用tnt炸的那种。
+[21:21:45] [Async Chat Thread - #372/INFO]: <yan_jue> 对
+[21:21:48] [Async Chat Thread - #371/INFO]: <yan_jue> 就是这个
+[21:21:59] [Async Chat Thread - #372/INFO]: <chen_mo24> 好像不是吧。
+[21:22:03] [Server thread/INFO]: wugemi issued server command: /不像
+[21:22:15] [Async Chat Thread - #371/INFO]: <yan_jue> 我这个带树苗分拣回收
+[21:22:27] [Server thread/INFO]: aszxs issued server command: /tpa yan_jue
+[21:22:31] [Async Chat Thread - #371/INFO]: <chen_mo24> r应该没必要吧？
+[21:22:35] [Server thread/INFO]: yan_jue issued server command: /tpaccept
+[21:22:41] [Async Chat Thread - #372/INFO]: <yan_jue> 主要我懒awa
+[21:23:09] [Async Chat Thread - #372/INFO]: <aszxs> 看起来好厉害
+[21:23:36] [Async Chat Thread - #371/INFO]: <yan_jue> AWA
+[21:24:03] [Server thread/INFO]: chen_mo24 issued server command: /back
+[21:24:03] [Server thread/WARN]: chen_mo24 moved too quickly! -281.8889570454887,3.0,106.98177042422485
+[21:24:03] [Server thread/WARN]: chen_mo24 moved too quickly! -281.8889570454887,3.0,106.98177042422485
+[21:24:30] [Async Chat Thread - #372/INFO]: <chen_mo24> 我到家了tp我
+[21:24:56] [Server thread/INFO]: aszxs issued server command: /tpa chen_mo24
+[21:25:16] [Server thread/INFO]: chen_mo24 issued server command: /tpaccept
+[21:25:46] [Async Chat Thread - #373/INFO]: <aszxs> 差一点木头
+[21:26:00] [Async Chat Thread - #374/INFO]: <chen_mo24> 你看看这个怎么样？
+[21:26:18] [Async Chat Thread - #373/INFO]: <aszxs> 行
+[21:27:47] [Async Chat Thread - #375/INFO]: <aszxs> 橡木
+[21:30:42] [Async Chat Thread - #377/INFO]: <aszxs> 先下了
+[21:30:58] [Server thread/INFO]: aszxs lost connection: 连接中断
+[21:30:58] [Server thread/INFO]: aszxs退出了游戏
+[21:32:19] [Server thread/INFO]: wugemi lost connection: 连接中断
+[21:32:19] [Server thread/INFO]: wugemi退出了游戏
+[22:03:51] [Server thread/INFO]: yan_jue注定要摔死
+[22:03:54] [Server thread/INFO]: yan_jue issued server command: /back
+[22:10:32] [Async Chat Thread - #379/INFO]: <yan_jue> 好了啊啊啊啊
+[22:13:51] [User Authenticator #102/INFO]: UUID of player Laowang826 is 8617247d-9b3b-4b88-9316-ae547205f696
+[22:13:51] [Server thread/INFO]: Laowang826加入了游戏
+[22:13:51] [Server thread/INFO]: Laowang826[/183.199.35.179:40411] logged in with entity id 1030806 at ([world]-1358.685031790629, 270.0, -1537.9729786208234)
+[22:17:08] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[22:17:35] [Async Chat Thread - #382/INFO]: <Laowang826> 这个是什么
+[22:17:44] [Async Chat Thread - #382/INFO]: <yan_jue> 自动树场
+[22:17:55] [Async Chat Thread - #382/INFO]: <yan_jue> 等我封闭一下线路就能用了
+[22:18:14] [Async Chat Thread - #382/INFO]: <Laowang826> 哇居然是自动的，我还以为树场是那种手动种的
+[22:18:46] [Async Chat Thread - #382/INFO]: <yan_jue> 种树只能手动awa
+[22:18:53] [Async Chat Thread - #382/INFO]: <chen_mo24> 应该是属于半自动吧？
+[22:19:01] [Async Chat Thread - #383/INFO]: <yan_jue> 确实
+[22:19:13] [Async Chat Thread - #382/INFO]: <yan_jue> 这玩楞没办法全自动
+[22:19:40] [Async Chat Thread - #383/INFO]: <yan_jue> 有机械动力模组就好了AWA
+[22:19:58] [Async Chat Thread - #383/INFO]: <chen_mo24> 旗舰做一个自动刷骨粉机
+[22:20:11] [Async Chat Thread - #384/INFO]: <chen_mo24> 有时间的话，
+[22:20:15] [Async Chat Thread - #382/INFO]: <yan_jue> 我好要做苔藓机刷骨粉AWA
+[22:20:35] [Async Chat Thread - #383/INFO]: <chen_mo24> 台前我有几个？
+[22:20:47] [Async Chat Thread - #382/INFO]: <yan_jue> 现在不用，材料我有
+[22:21:00] [Async Chat Thread - #382/INFO]: <chen_mo24> 可以一起用吗？
+[22:21:12] [Async Chat Thread - #383/INFO]: <yan_jue> 怎么不能
+[22:21:40] [Async Chat Thread - #383/INFO]: <chen_mo24> 这边的刷机不让用了。
+[22:21:41] [Async Chat Thread - #385/INFO]: <yan_jue> 要不能用我早圈领地了awa
+[22:21:46] [Async Chat Thread - #385/INFO]: <yan_jue> ?
+[22:21:51] [User Authenticator #103/INFO]: UUID of player DanieleToxic is ccc8ea50-eff3-464a-bb52-8a1b010689fa
+[22:21:52] [Server thread/INFO]: DanieleToxic加入了游戏
+[22:21:52] [Server thread/INFO]: DanieleToxic[/183.200.24.136:18609] logged in with entity id 1032888 at ([world]16.5, 79.0, 208.5)
+[22:21:52] [Server thread/INFO]: DanieleToxic取得了进度[获得升级]
+[22:21:55] [Async Chat Thread - #385/INFO]: <yan_jue> 刷石机能用啊
+[22:21:57] [Async Chat Thread - #385/INFO]: <DanieleToxic> hi
+[22:21:57] [Async Chat Thread - #385/INFO]: <chen_mo24> 铁
+[22:21:59] [Server thread/INFO]: DanieleToxic issued server command: /pl
+[22:22:05] [Async Chat Thread - #382/INFO]: <yan_jue> hi
+[22:22:07] [Server thread/INFO]: DanieleToxic issued server command: /version ViaVersion
+[22:22:16] [Async Chat Thread - #382/INFO]: <DanieleToxic> op
+[22:22:18] [Async Chat Thread - #382/INFO]: <DanieleToxic> ...
+[22:22:21] [Async Chat Thread - #382/INFO]: <DanieleToxic> op+woqq
+[22:22:25] [Async Chat Thread - #385/INFO]: <DanieleToxic> 1632589517
+[22:22:29] [Server thread/INFO]: DanieleToxic issued server command: /res tp ?
+[22:22:32] [Async Chat Thread - #385/INFO]: <yan_jue> 我们都不是
+[22:22:36] [Server thread/INFO]: DanieleToxic issued server command: /tpa yan_jue
+[22:22:37] [Async Chat Thread - #385/INFO]: <yan_jue> 你去群里找
+[22:22:38] [Server thread/INFO]: DanieleToxic issued server command: /pl
+[22:22:44] [User Authenticator #103/INFO]: UUID of player skost12 is 7988b94d-8570-4e19-8633-c63c6f142cb1
+[22:22:44] [Server thread/INFO]: skost12加入了游戏
+[22:22:44] [Server thread/INFO]: skost12[/111.0.165.32:15481] logged in with entity id 1033232 at ([world]-632.2796815281358, 63.0, -996.2225018843263)
+[22:22:56] [Server thread/INFO]: chen_mo24 issued server command: /back
+[22:22:56] [Server thread/WARN]: chen_mo24 moved too quickly! 238.5040977499957,2.0,-67.89710396434597
+[22:22:56] [Server thread/WARN]: chen_mo24 moved too quickly! 238.5040977499957,2.0,-67.89710396434597
+[22:22:56] [Server thread/WARN]: chen_mo24 moved too quickly! 238.5040977499957,2.0,-67.89710396434597
+[22:22:58] [Server thread/INFO]: Laowang826 issued server command: /home village
+[22:23:13] [Server thread/INFO]: Laowang826 issued server command: /back
+[22:23:22] [Server thread/INFO]: DanieleToxic issued server command: /version Residence
+[22:24:00] [Server thread/INFO]: Laowang826 issued server command: /back
+[22:24:07] [Async Chat Thread - #386/INFO]: <yan_jue> 现在先别用
+[22:25:17] [Server thread/INFO]: skost12 issued server command: /spawn
+[22:25:17] [Server thread/WARN]: skost12 moved too quickly! 682.8122663840719,1.0,1083.9872612271183
+[22:25:44] [Server thread/INFO]: skost12 issued server command: /home home2
+[22:28:29] [Server thread/INFO]: Laowang826 issued server command: /home village
+[22:28:29] [Server thread/INFO]: Laowang826从高处摔了下来
+[22:28:32] [Server thread/INFO]: Laowang826 issued server command: /home village
+[22:28:58] [Async Chat Thread - #388/INFO]: <yan_jue> 树苗现在不多AWA
+[22:29:06] [Async Chat Thread - #389/INFO]: <chen_mo24> 我去拿。
+[22:29:13] [Async Chat Thread - #389/INFO]: <yan_jue> 橡木的
+[22:29:13] [Server thread/INFO]: chen_mo24 issued server command: /back
+[22:29:13] [Server thread/WARN]: chen_mo24 moved too quickly! -359.3951277237252,-3.0,75.58124678957859
+[22:29:13] [Server thread/WARN]: chen_mo24 moved too quickly! -359.3951277237252,-3.0,75.58124678957859
+[22:30:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@361b591f[id=<null>,name=nyanly,properties={},legacy=false] (/171.212.240.135:7285) lost connection: 连接中断
+[22:30:52] [User Authenticator #104/INFO]: UUID of player nyanly is 2ffd5b4c-9a62-4073-bd3e-ab81674c1a5d
+[22:30:52] [Server thread/INFO]: nyanly加入了游戏
+[22:30:52] [Server thread/INFO]: nyanly[/171.212.240.135:7639] logged in with entity id 1037637 at ([world]16.5, 79.0, 208.5)
+[22:30:52] [Server thread/INFO]: nyanly取得了进度[获得升级]
+[22:30:56] [Async Chat Thread - #390/INFO]: <skost12> 欢迎
+[22:31:02] [Async Chat Thread - #390/INFO]: <Laowang826> 欢迎
+[22:31:07] [Server thread/INFO]: yan_jue issued server command: /res TP laoshuaguaita
+[22:31:11] [Async Chat Thread - #391/INFO]: <chen_mo24> 欢迎
+[22:31:15] [Async Chat Thread - #390/INFO]: <yan_jue> 欢迎
+[22:31:30] [Server thread/INFO]: yan_jue issued server command: /res
+[22:31:34] [Server thread/INFO]: yan_jue issued server command: /res TP 1
+[22:31:59] [Server thread/INFO]: skost12 lost connection: 连接超时
+[22:31:59] [Server thread/INFO]: skost12退出了游戏
+[22:32:15] [Server thread/INFO]: chen_mo24 issued server command: /back
+[22:32:15] [Server thread/WARN]: chen_mo24 moved too quickly! 373.8963931932517,0.0,-115.65735204088165
+[22:32:15] [Server thread/WARN]: chen_mo24 moved too quickly! 373.8963931932517,0.0,-115.65735204088165
+[22:32:15] [Server thread/WARN]: chen_mo24 moved too quickly! 373.8963931932517,0.0,-115.65735204088165
+[22:33:06] [User Authenticator #105/INFO]: UUID of player skost12 is 7988b94d-8570-4e19-8633-c63c6f142cb1
+[22:33:06] [Server thread/INFO]: skost12加入了游戏
+[22:33:06] [Server thread/INFO]: skost12[/36.21.111.4:20652] logged in with entity id 1038412 at ([world_nether]-73.65460980395659, 88.0, -108.55206846135474)
+[22:33:20] [Async Chat Thread - #392/INFO]: <chen_mo24> 我尽量的帮你收集全了。
+[22:34:11] [Async Chat Thread - #392/INFO]: <chen_mo24> 能刷一点金合欢吗？
+[22:34:15] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[22:34:24] [Async Chat Thread - #393/INFO]: <yan_jue> 我试试
+[22:34:30] [Async Chat Thread - #392/INFO]: <chen_mo24> 要盖房子。
+[22:34:34] [Server thread/INFO]: DanieleToxic被末影人杀死了
+[22:35:18] [Server thread/INFO]: skost12落地过猛
+[22:35:21] [Server thread/INFO]: skost12 issued server command: /back
+[22:35:27] [Server thread/INFO]: skost12 issued server command: /res tp xiaoheita
+[22:35:36] [Server thread/INFO]: skost12 issued server command: /back
+[22:35:42] [Server thread/INFO]: skost12 issued server command: /res tp
+[22:35:43] [Server thread/INFO]: skost12 issued server command: /
+[22:35:48] [Async Chat Thread - #394/INFO]: <yan_jue> emmm
+[22:35:52] [Server thread/INFO]: skost12 issued server command: /home home2
+[22:35:59] [Async Chat Thread - #394/INFO]: <chen_mo24> 好像不行诶。
+[22:36:14] [Async Chat Thread - #394/INFO]: <yan_jue> 丛林木可以
+[22:36:22] [Async Chat Thread - #395/INFO]: <chen_mo24> 我记得还有一种呢。
+[22:36:34] [Async Chat Thread - #394/INFO]: <yan_jue> 金合欢不行
+[22:36:42] [Server thread/INFO]: nyanly取得了进度[石器时代]
+[22:37:03] [Async Chat Thread - #395/INFO]: <chen_mo24> f我记得还有一种半自动的。砍树机
+[22:37:34] [Async Chat Thread - #395/INFO]: <chen_mo24> f这种有点卡呀，兄弟。
+[22:37:37] [Async Chat Thread - #394/INFO]: <DanieleToxic> e
+[22:37:42] [Async Chat Thread - #395/INFO]: <yan_jue> 卡吗？
+[22:37:51] [Async Chat Thread - #394/INFO]: <chen_mo24> 有一点
+[22:37:52] [Async Chat Thread - #395/INFO]: <DanieleToxic> 我们的优势有-i914900k两台-zxc服务器官网mcddosop asia-审核群480844693-我们还有专业爆光神权服务器网站fw520mc icu备用网站ip:zxc.5201314 top欢迎大家到来
+[22:37:59] [Async Chat Thread - #396/INFO]: <skost12> 6
+[22:38:03] [Async Chat Thread - #394/INFO]: <Laowang826> 6
+[22:38:11] [Server thread/INFO]: nyanly取得了进度[怪物猎人]
+[22:38:22] [Server thread/INFO]: DanieleToxic issued server command: /call chen_mo24
+[22:38:34] [Async Chat Thread - #396/INFO]: <DanieleToxic> ?
+[22:38:38] [Server thread/INFO]: chen_mo24 issued server command: /tpaccept
+[22:38:39] [Server thread/INFO]: skost12落地过猛
+[22:38:43] [Server thread/INFO]: skost12 issued server command: /back
+[22:38:47] [Async Chat Thread - #394/INFO]: <yan_jue> 好家伙，挖人？
+[22:38:51] [Async Chat Thread - #396/INFO]: <DanieleToxic> 我们的优势有-i914900k两台-zxc服务器官网mcddosop asia-审核群480844693-我们还有专业爆光神权服务器网站fw520mc icu备用网站ip:zxc.5201314 top欢迎大家到来
+[22:38:53] [Async Chat Thread - #394/INFO]: <DanieleToxic> yes
+[22:39:00] [Async Chat Thread - #394/INFO]: <Laowang826> 这小服务器都要挖
+[22:39:02] [Server thread/INFO]: DanieleToxic issued server command: /sethome 1
+[22:39:04] [Server thread/INFO]: DanieleToxic issued server command: /sethome
+[22:39:54] [Server thread/INFO]: DanieleToxic issued server command: /lp
+[22:39:58] [Server thread/INFO]: DanieleToxic issued server command: /plugins
+[22:39:58] [Async Chat Thread - #394/INFO]: <Laowang826> 我现在也开始掉帧了
+[22:40:04] [Server thread/INFO]: yan_jue issued server command: /
+[22:40:06] [Async Chat Thread - #394/INFO]: <yan_jue> ?
+[22:40:11] [Async Chat Thread - #394/INFO]: <yan_jue> 我没开机器a
+[22:40:22] [Async Chat Thread - #394/INFO]: <Laowang826> 啊没事了
+[22:40:27] [Async Chat Thread - #396/INFO]: <Laowang826> 是我笔记本没插电
+[22:40:34] [Async Chat Thread - #394/INFO]: <yan_jue> 好好好
+[22:40:58] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /ban DanieleToxic
+[22:40:58] [Server thread/INFO]: DanieleToxic lost connection: 已封禁：
+你已被此服务器封禁！
+[22:40:58] [Server thread/INFO]: DanieleToxic退出了游戏
+[22:40:58] [Server thread/INFO]: [Essentials] 操作员Console封禁了DanieleToxic，理由：已封禁：
+你已被此服务器封禁！。
+[22:41:20] [Async Chat Thread - #396/INFO]: <chen_mo24> 群号多少个忘了。
+[22:41:28] [Async Chat Thread - #396/INFO]: <skost12> 920071635
+[22:41:46] [Async Chat Thread - #396/INFO]: <yan_jue> 为什么不能刷金合欢呢
+[22:41:49] [Async Chat Thread - #394/INFO]: <skost12> 挖人那个网站一打开 纯魔怔逼
+[22:42:14] [User Authenticator #106/INFO]: UUID of player DanieleToxic is ccc8ea50-eff3-464a-bb52-8a1b010689fa
+[22:42:14] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@421e6197[id=ccc8ea50-eff3-464a-bb52-8a1b010689fa,name=DanieleToxic,properties={textures=[com.mojang.authlib.properties.Property@5062129]},legacy=false] (/183.200.24.136:18703): 你已被此服务器封禁。理由：你已被此服务器封禁！
+[22:42:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@421e6197[id=ccc8ea50-eff3-464a-bb52-8a1b010689fa,name=DanieleToxic,properties={textures=[com.mojang.authlib.properties.Property@5062129]},legacy=false] (/183.200.24.136:18703) lost connection: 你已被此服务器封禁。理由：你已被此服务器封禁！
+[22:42:38] [Server thread/INFO]: Laowang826 issued server command: /home village
+[22:42:53] [Async Chat Thread - #397/INFO]: <yan_jue> 他官网啥啊
+[22:43:17] [Server thread/INFO]: chen_mo24 lost connection: 连接中断
+[22:43:17] [Server thread/INFO]: chen_mo24退出了游戏
+[22:44:21] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[22:44:48] [Server thread/INFO]: Laowang826 issued server command: /home village
+[22:45:27] [Server thread/INFO]: Laowang826 issued server command: /spawn
+[22:46:05] [Server thread/INFO]: Laowang826 issued server command: /home village
