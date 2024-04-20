@@ -2,7 +2,7 @@
 title: 资源下载
 description: 
 published: true
-date: 2024-04-20T08:46:22.537Z
+date: 2024-04-20T09:41:25.468Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-18T14:27:17.206Z
@@ -30,3 +30,13 @@ dateCreated: 2024-04-18T14:27:17.206Z
 [1.18.2](/sodium-fabric-mc1.18.2-0.4.1+build.15.jar)
 [1.17.1](/sodium-fabric-mc1.17.1-0.3.4+build.13.jar)
 [1.16.5](/sodium-fabric-mc1.16.5-0.2.0+build.4_(1).jar)
+
+## ModMenu
+模组管理器
+> 没有你的版本? 前往 https://modrinth.com/mod/modmenu/versions#all-versions
+{.is-info}
+
+[1.20.4.jar](/1.20.4.jar)
+[1.20.2.jar](/1.20.2.jar)
+[1.20.1.jar](/1.20.1.jar)
+[1.19.4.jar](/1.19.4.jar)
