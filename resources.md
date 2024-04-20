@@ -2,7 +2,7 @@
 title: 资源下载
 description: 
 published: true
-date: 2024-04-20T09:42:07.743Z
+date: 2024-04-20T13:20:10.130Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-18T14:27:17.206Z
@@ -40,3 +40,15 @@ dateCreated: 2024-04-18T14:27:17.206Z
 [1.20.2.jar](/1.20.2.jar)
 [1.20.1.jar](/1.20.1.jar)
 [1.19.4.jar](/1.19.4.jar)
+
+## World Map
+世界地图，内置两个模组，分别辅助地图！
+> 没有你的版本? 前往 
+https://modrinth.com/mod/xaeros-minimap/versions
+https://www.modrinth.com/mod/xaeros-world-map/versions
+分别下载
+{.is-info}
+
+[1.20.4.zip](/worldmap/1.20.4.zip)
+[1.20.2.zip](/worldmap/1.20.2.zip)
+[1.20.1.zip](/worldmap/1.20.1.zip)
