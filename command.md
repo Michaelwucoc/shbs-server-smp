@@ -2,7 +2,7 @@
 title: 服务器指令
 description: 
 published: true
-date: 2024-04-09T02:21:04.006Z
+date: 2024-04-21T02:36:12.280Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-20T14:23:28.430Z
@@ -60,5 +60,44 @@ dateCreated: 2024-03-20T14:23:28.430Z
  ---
  - 传送到领地 `/res tp <领地名称> `
  你必须拥有这个领地的**传送权限**
+ 
+ # 假人 (MVP专属)
+| 命令            | 作用        | 备注                      |
+|---------------|-----------|-------------------------|
+| /fp spawn     | 召唤假人      |                         |
+| /fp kill      | 杀死假人      |                         |
+| /fp killall   | 杀死服务器所有假人 |                         |
+| /fp select    | 选中假人      | 当玩家假人数量 >= 2 时才会出现      |
+| /fp selection | 查看选中假人    | 当玩家假人数量 >= 2 时才会出现      |
+| /fp list      | 查看已召唤的假人  |                         |
+| /fp distance  | 查看与假人的距离  |                         |
+| /fp drop      | 丢弃手上一个物品  |                         |
+| /fp dropstack | 丢弃手上整组物品  |                         |
+| /fp dropinv   | 丢弃背包所有物品  |                         |
+| /fp skin      | 复制玩家皮肤    | 非在线玩家有 60 秒冷却           |
+| /fp invsee    | 查看假人背包    | 玩家对假人右键同等效果             |
+| /fp sleep     | 睡觉        |                         |
+| /fp wakeup    | 起床        |                         |
+| /fp status    | 查看假人状态    |                         |
+| /fp respawn   | 让死亡的假人复活  | 当服务器配置假人死亡时不踢出才会出现      |
+| /fp tp        | 传送到假人身边   |                         |
+| /fp tphere    | 让假人传送到身边  |                         |
+| /fp tps       | 与假人交换位置   |                         |
+| /fp set       | 更改假人的配置   |                         |
+| /fp config    | 更改默认假人配置  |                         |
+| /fp expme     | 吸收假人经验值   |                         |
+| /fp attack    | 攻击        |                         |
+| /fp mine      | 挖掘        |                         |
+| /fp use       | 使用/交互/放置  |                         |
+| /fp jump      | 跳跃        |                         |
+| /fp turn      | 转身        |                         |
+| /fp look      | 看向指定位置    |                         |
+| /fp move      | 移动        |                         |
+| /fp ride      | 骑乘        |                         |
+| /fp sneak     | 潜行        |                         |
+| /fp swap      | 交换主副手物品   |                         |
+| /fp hold      | 手持对应快捷栏物品 |                         |
+| /fp cmd       | 让假人执行命令   | 不给权限的情况下，允许执行配置文件里定义的命令 |
+
  
 
