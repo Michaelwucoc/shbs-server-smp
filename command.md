@@ -2,7 +2,7 @@
 title: 服务器指令
 description: 
 published: true
-date: 2024-04-21T02:39:21.777Z
+date: 2024-04-21T02:46:13.091Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-20T14:23:28.430Z
@@ -63,11 +63,12 @@ dateCreated: 2024-03-20T14:23:28.430Z
  
  # 假人 (MVP专属)
 >  请不要生成超过1个假人，否则您会失去假人的权限!
+假人生成前建议去微信或论坛申请假人ID白名单
 {.is-warning}
 
 | 命令            | 作用        | 备注                      |
 |---------------|-----------|-------------------------|
-| /fp spawn     | 召唤假人      |                         |
+| /fp spawn [Name]   | 召唤假人      |                         |
 | /fp kill      | 杀死假人      |                         |
 | /fp killall   | 杀死服务器所有假人 |                         |
 | /fp select    | 选中假人      | 当玩家假人数量 >= 2 时才会出现      |
