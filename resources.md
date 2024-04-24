@@ -2,7 +2,7 @@
 title: 资源下载
 description: 
 published: true
-date: 2024-04-20T13:20:10.130Z
+date: 2024-04-24T14:28:31.720Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-18T14:27:17.206Z
@@ -52,3 +52,12 @@ https://www.modrinth.com/mod/xaeros-world-map/versions
 [1.20.4.zip](/worldmap/1.20.4.zip)
 [1.20.2.zip](/worldmap/1.20.2.zip)
 [1.20.1.zip](/worldmap/1.20.1.zip)
+
+## JEI
+物品合成配方查看小能手,妈妈再也不用担心我不知道合成表啦～
+> 没有你的版本? 前往 https://modrinth.com/mod/jei/versions
+{.is-info}
+
+[1.20.4.jar](/jei-1.20.4-fabric-17.3.0.48.jar)
+[1.20.2.jar](/jei-1.20.2-fabric-16.0.0.2.jar)
+[1.20.1.jar](/jei-1.20.1-fabric-15.3.0.4.jar)
