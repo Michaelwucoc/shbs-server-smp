@@ -2,7 +2,7 @@
 title: 服务器指令
 description: 
 published: true
-date: 2024-04-21T02:48:48.942Z
+date: 2024-04-28T07:28:27.666Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-20T14:23:28.430Z
@@ -102,6 +102,13 @@ dateCreated: 2024-03-20T14:23:28.430Z
 | /fp swap      | 交换主副手物品   |                         |
 | /fp hold      | 手持对应快捷栏物品 |                         |
 | /fp cmd       | 让假人执行命令   | 不给权限的情况下，允许执行配置文件里定义的命令 |
+
+# 照片 (VIP专属)
+查看照片信息 `/image describe` 
+导入照片 `/image download <链接> <文件名>`
+列出可用的照片 `/image list`
+放置照片 `/image place <文件名> <大小>`
+查看排行榜 `/image top`
 
  
 
