@@ -2,7 +2,7 @@
 title: 服务器指令
 description: 
 published: true
-date: 2024-04-28T07:30:22.852Z
+date: 2024-04-28T07:39:47.418Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-20T14:23:28.430Z
