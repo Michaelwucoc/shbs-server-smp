@@ -2,7 +2,7 @@
 title: 服务器指令
 description: 
 published: true
-date: 2024-04-28T07:39:47.418Z
+date: 2024-04-29T12:05:05.203Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-20T14:23:28.430Z
@@ -15,6 +15,15 @@ dateCreated: 2024-03-20T14:23:28.430Z
 `^/....`表示这是管理员指令
 {.is-info}
 # 基本指令
+- 登录 `/l <密码>`
+- 注册 `/reg <密码> <重复一遍密码>`
+> 比如我要使用123456作为密码进行注册: 输入 `/reg 123456 123456`
+登录就使用 `/l 123456`
+{.is-info}
+
+
+
+---
 - 传送到玩家 `/tpa <玩家ID>`
 - 将玩家传送过来 `/tpahere <玩家ID>`
 - 同意传送 `/tpaaccept`
