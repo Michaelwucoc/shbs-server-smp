@@ -2,7 +2,7 @@
 title: 服务器规则
 description: 
 published: true
-date: 2024-03-20T01:46:07.300Z
+date: 2024-04-30T02:17:15.893Z
 tags: locked
 editor: markdown
 dateCreated: 2024-03-20T01:30:01.668Z
@@ -52,3 +52,7 @@ dateCreated: 2024-03-20T01:30:01.668Z
 |-|-|
 |言语辱骂|30分钟|
 |刷屏|5分钟|
+
+
+## 充值须知
+所有的充值不能退款! 赞助包括在内
