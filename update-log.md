@@ -2,7 +2,7 @@
 title: 更新日志
 description: 
 published: true
-date: 2024-04-30T09:21:39.886Z
+date: 2024-04-30T10:43:33.295Z
 tags: locked
 editor: markdown
 dateCreated: 2024-04-28T07:43:58.612Z
@@ -11,6 +11,7 @@ dateCreated: 2024-04-28T07:43:58.612Z
 # Apr 30 Update
 ## 更新
 - 更新 礼物插件，允许玩家无视距离赠送礼物
+- 更新 电梯插件，减少爬楼
 ## 修复
 - 服务器偶然卡顿修复
 # Apr 29 Update
