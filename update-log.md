@@ -2,12 +2,15 @@
 title: 更新日志
 description: 
 published: true
-date: 2024-04-30T10:49:20.293Z
+date: 2024-05-06T01:21:58.876Z
 tags: locked
 editor: markdown
 dateCreated: 2024-04-28T07:43:58.612Z
 ---
 
+# May 6 Update
+## 更新
+- 更新动作功能，您现在可以输入`/sit`等来执行动作了!
 # Apr 30 Update
 ## 更新
 - 更新 礼物插件，允许玩家无视距离赠送礼物
