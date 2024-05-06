@@ -2,7 +2,7 @@
 title: 服务器指令
 description: 
 published: true
-date: 2024-04-29T12:05:05.203Z
+date: 2024-05-06T01:30:17.554Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-20T14:23:28.430Z
@@ -38,7 +38,9 @@ dateCreated: 2024-03-20T14:23:28.430Z
 - 自杀 `/suicide`
 - 传送到高处 `*/top`
 - 维修物品 `*/repair all`
-
+# 礼物
+- 给玩家礼物 `/gift <玩家> <物品数量>` 
+手上拿着你需要给予的物品
 # 设置传送点
 - 设置传送点 `/setwarp <传送点名称>`
 - 传送到传送点 `/warp <传送点名称>`
@@ -122,6 +124,8 @@ dateCreated: 2024-03-20T14:23:28.430Z
 前往https://photo.shbsme.top 上传照片
 ![](https://photo.shbsme.top/i/2024/04/28/662dfad80d3bc.png)
 复制URL，在游戏内使用导入照片指令，URL填写复制的链接。 文件名不要重复！
+
+
 
  
 
