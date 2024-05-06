@@ -2,7 +2,7 @@
 title: 服务器指令
 description: 
 published: true
-date: 2024-05-06T01:30:17.554Z
+date: 2024-05-06T01:38:02.370Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-20T14:23:28.430Z
@@ -41,6 +41,12 @@ dateCreated: 2024-03-20T14:23:28.430Z
 # 礼物
 - 给玩家礼物 `/gift <玩家> <物品数量>` 
 手上拿着你需要给予的物品
+
+# 动作
+- 坐下 `/sit`
+- 躺下 `/lay`
+- 趴下 `/crawl`
+
 # 设置传送点
 - 设置传送点 `/setwarp <传送点名称>`
 - 传送到传送点 `/warp <传送点名称>`
