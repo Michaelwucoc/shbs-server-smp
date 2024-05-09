@@ -2,11 +2,16 @@
 title: 更新日志
 description: 
 published: true
-date: 2024-05-06T01:21:58.876Z
+date: 2024-05-09T12:54:22.981Z
 tags: locked
 editor: markdown
 dateCreated: 2024-04-28T07:43:58.612Z
 ---
+
+# May 9 Update
+## 更新
+- 兼容 1.20.6
+- 更新服务器插件
 
 # May 6 Update
 ## 更新
