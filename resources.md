@@ -2,7 +2,7 @@
 title: 资源下载
 description: 
 published: true
-date: 2024-07-08T14:42:09.692Z
+date: 2024-07-08T16:05:58.399Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-18T14:27:17.206Z
@@ -13,6 +13,7 @@ dateCreated: 2024-04-18T14:27:17.206Z
 腐竹、玩家大力推荐，妈妈看了都说好！满足你对生电的所有需求
 > 前往 https://www.arcomua.com/standard
 进行下载
+{.is-info}
 
 # Mods
 ## VoiceChat
