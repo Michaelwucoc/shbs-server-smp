@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2024-07-08T14:35:06.245Z
+date: 2024-07-08T14:36:36.832Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-19T14:55:39.532Z
@@ -10,7 +10,9 @@ dateCreated: 2024-03-19T14:55:39.532Z
 
 # 欢迎来到MILK SERVER SMP
 
-加入我们的QQ群: [https://qm.qq.com/q/yeZcjLdmw2](https://qm.qq.com/q/yeZcjLdmw2)
+> 加入我们的QQ群: [https://qm.qq.com/q/yeZcjLdmw2](https://qm.qq.com/q/yeZcjLdmw2)
+{.is-info}
+
 
 *『一定到页面底下看看百人服 是真不错（店员声）』*
 
@@ -28,7 +30,7 @@ MILK SMP 是由 **Michaelwucoc** 发起的公益项目，为了给予玩家们�
 
 服务器目前已经有 `46` 名玩家
 
-如果你想赞助我们，请在QQ群内发送support获取赞助二维码，赞助后可以向管理员索要特权。
+如果你想赞助我们，请在QQ群内发送`support`获取赞助二维码，赞助后可以向管理员索要特权。
 
 # 基本服务器信息
 
@@ -44,19 +46,26 @@ BE `mc.vteamer.cc:27929`
 
 -   配置: 4**H 8GB** 5*0GB*
 
-本Wiki与游戏服务器分开，不影响性能。
+> 本Wiki与游戏服务器分开，不影响性能。
+> 
+> 您可以向腐竹申请维基账号，请注意，修改都会有记录。要是乱搞我给你ban了（嘻嘻）。
+{.is-danger}
 
-您可以向腐竹申请维基账号~~/自行注册(怕熊孩子)~~，请注意，修改都会有记录。要是乱搞我给你ban了（嘻嘻）。
+
+
+---
 
 # 联合服务器  百人服
 
 『由Mike创立的，简幻欢非官方百人服务器项目』纯公益，不接受赞助！！
-
+> 
 > 请注意，此服务器管治权为 @moonmc666 所有，一切行为与本服务器无关。 后续可能会进行Bungee协议切换。
 > 
 > 对 Bungee！ 就是Bungee！
 > 
 > ↑加一条可以，别删我title啊喂（
+{.is-warning}
+
 
 ```plaintext
 版本：1.20.X（推荐1.20.6）
