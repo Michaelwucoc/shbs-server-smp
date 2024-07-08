@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2024-07-08T14:36:36.832Z
+date: 2024-07-08T14:40:05.522Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-19T14:55:39.532Z
@@ -11,6 +11,11 @@ dateCreated: 2024-03-19T14:55:39.532Z
 # 欢迎来到MILK SERVER SMP
 
 > 加入我们的QQ群: [https://qm.qq.com/q/yeZcjLdmw2](https://qm.qq.com/q/yeZcjLdmw2)
+{.is-info}
+
+> 购买Milk服务器同款云! 享受新人优惠
+> 性能保障，不限制，不超开！
+> https://app.cloud.lstudio.top/aff/MXBVZENZ
 {.is-info}
 
 
