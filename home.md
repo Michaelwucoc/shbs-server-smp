@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2024-07-08T14:40:38.781Z
+date: 2024-07-08T14:44:58.990Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-19T14:55:39.532Z
@@ -18,6 +18,9 @@ dateCreated: 2024-03-19T14:55:39.532Z
 > https://app.cloud.lstudio.top/aff/MXBVZENZ
 {.is-info}
 
+> 本WIKI在GitHub同步:
+> https://github.com/Michaelwucoc/shbs-server-smp
+{.is-info}
 
 *『一定到页面底下看看百人服 是真不错（店员声）』*
 
