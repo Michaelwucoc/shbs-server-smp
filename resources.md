@@ -2,7 +2,7 @@
 title: 资源下载
 description: 
 published: true
-date: 2024-04-24T14:28:31.720Z
+date: 2024-07-08T14:28:52.368Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-18T14:27:17.206Z
@@ -61,3 +61,10 @@ https://www.modrinth.com/mod/xaeros-world-map/versions
 [1.20.4.jar](/jei-1.20.4-fabric-17.3.0.48.jar)
 [1.20.2.jar](/jei-1.20.2-fabric-16.0.0.2.jar)
 [1.20.1.jar](/jei-1.20.1-fabric-15.3.0.4.jar)
+
+# Modpacks
+## Arcomua Modpack
+腐竹、玩家大力推荐，满足你对生电的所有需求
+> 没有你的版本? 前往 
+https://www.arcomua.com/standard
+进行下载
