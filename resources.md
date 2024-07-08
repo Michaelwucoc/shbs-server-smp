@@ -2,11 +2,17 @@
 title: 资源下载
 description: 
 published: true
-date: 2024-07-08T14:30:39.746Z
+date: 2024-07-08T14:42:09.692Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-18T14:27:17.206Z
 ---
+
+# Modpacks
+## Arcomua Modpack
+腐竹、玩家大力推荐，妈妈看了都说好！满足你对生电的所有需求
+> 前往 https://www.arcomua.com/standard
+进行下载
 
 # Mods
 ## VoiceChat
@@ -62,8 +68,3 @@ https://www.modrinth.com/mod/xaeros-world-map/versions
 [1.20.2.jar](/jei-1.20.2-fabric-16.0.0.2.jar)
 [1.20.1.jar](/jei-1.20.1-fabric-15.3.0.4.jar)
 
-# Modpacks
-## Arcomua Modpack
-腐竹、玩家大力推荐，妈妈看了都说好！满足你对生电的所有需求
-> 前往 https://www.arcomua.com/standard
-进行下载
