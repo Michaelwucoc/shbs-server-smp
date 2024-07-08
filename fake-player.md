@@ -2,7 +2,7 @@
 title: 假人
 description: 
 published: true
-date: 2024-04-24T14:21:00.887Z
+date: 2024-07-08T14:07:58.226Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-24T14:21:00.887Z
@@ -14,8 +14,8 @@ dateCreated: 2024-04-24T14:21:00.887Z
 
 # 创建假人
 ## 在你创建假人之前
-1. 前往 https://shbsme.top 申请假人白名单。
-> 填写提示：加入您要生成一个名字为Example的假人，请在申诉表中的玩家名写上Example.
+1. 你需要获得赞助并且确认在赞助有效期内
+> 填写提示：目前支持 fake2 - fake 20 的创建，需要自定义请联系腐竹。
 {.is-info}
 ## 进入游戏生成假人
 1. 进入游戏服务器，站在需要生成假人的方块上
