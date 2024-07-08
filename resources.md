@@ -2,7 +2,7 @@
 title: 资源下载
 description: 
 published: true
-date: 2024-07-08T14:28:52.368Z
+date: 2024-07-08T14:30:08.816Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-18T14:27:17.206Z
@@ -64,7 +64,7 @@ https://www.modrinth.com/mod/xaeros-world-map/versions
 
 # Modpacks
 ## Arcomua Modpack
-腐竹、玩家大力推荐，满足你对生电的所有需求
+腐竹、玩家大力推荐，妈妈看了都说好！满足你对生电的所有需求
 > 没有你的版本? 前往 
 https://www.arcomua.com/standard
 进行下载
