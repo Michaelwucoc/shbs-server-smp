@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2024-07-09T00:12:31.982Z
+date: 2024-07-09T00:17:07.793Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-19T14:55:39.532Z
@@ -28,6 +28,11 @@ dateCreated: 2024-03-19T14:55:39.532Z
 >
 >『一定到页面底下看看百人服 是真不错（店员声）』
 {.is-danger}
+
+>简幻云
+>
+>绝不超开，性能保证，随时跑分。不达分数，随时退换。N年老云，值得信赖。（AD）
+{.is-warning}
 # 简介
 
 MILK SMP 是由 **Michaelwucoc** 发起的公益项目，为了给予玩家们一个稳定良好的游戏平台，建立了此服务器。
