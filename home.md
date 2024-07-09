@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2024-07-08T14:44:58.990Z
+date: 2024-07-09T00:10:41.625Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-19T14:55:39.532Z
@@ -13,6 +13,8 @@ dateCreated: 2024-03-19T14:55:39.532Z
 > 加入我们的QQ群: [https://qm.qq.com/q/yeZcjLdmw2](https://qm.qq.com/q/yeZcjLdmw2)
 {.is-info}
 
+
+
 > 购买Milk服务器同款云! 享受新人优惠
 > 性能保障，不限制，不超开！
 > https://app.cloud.lstudio.top/aff/MXBVZENZ
@@ -22,8 +24,10 @@ dateCreated: 2024-03-19T14:55:39.532Z
 > https://github.com/Michaelwucoc/shbs-server-smp
 {.is-info}
 
-*『一定到页面底下看看百人服 是真不错（店员声）』*
-
+> 联合服务器
+>
+>『一定到页面底下看看百人服 是真不错（店员声）』
+{.is-danger}
 # 简介
 
 MILK SMP 是由 **Michaelwucoc** 发起的公益项目，为了给予玩家们一个稳定良好的游戏平台，建立了此服务器。
@@ -65,27 +69,25 @@ BE `mc.vteamer.cc:27929`
 
 # 联合服务器  百人服
 
-『由Mike创立的，简幻欢非官方百人服务器项目』纯公益，不接受赞助！！
-> 
-> 请注意，此服务器管治权为 @moonmc666 所有，一切行为与本服务器无关。 后续可能会进行Bungee协议切换。
-> 
-> 对 Bungee！ 就是Bungee！
-> 
-> ↑加一条可以，别删我title啊喂（
-{.is-warning}
+### 『由Mike创立的，简幻欢非官方百人服务器项目』纯公益，不接受赞助！！
+> 免责声明
+>
+> 此服务器管治权为 @moonmc666 所有，一切行为与本服务器无关。 
+> 服主：我们两个服务器是联合服，你不要太过分。
+{.is-info}
 
 
-```plaintext
+```version support
 版本：1.20.X（推荐1.20.6）
 ```
-
-`**死而复生的简幻欢非官方百人同服项目！社区人员亲手维护，拥有小时级全量备份，特稳定，特快速*。**`
+**
+`死而复生的简幻欢非官方百人同服项目！社区人员亲手维护，拥有小时级全量备份，特稳定，特快速*。`**
 
 ---
 
-**可选安装：**Simple Voice Chat
+**可选安装：** Simple Voice Chat
 
-**原生支持：**Jade🔍、Servux、假人、地毯协议、共享原理图、Xaero地图同步、飞行巡航(500格以上不加载区块以提高性能)、原版随机数系统(可以算附魔等)
+**原生支持：** Jade🔍、Servux、假人、地毯协议、共享原理图、Xaero地图同步、飞行巡航(500格以上不加载区块以提高性能)、原版随机数系统(可以算附魔等)
 
 顺便提一句，服务器的VoiceChat XaeroMini+Worldmap可以去左边的资源下载里面下。
 
@@ -99,6 +101,7 @@ Java版IP： `play.simpfun.cn:15495`
 
 `进百人服一定、一定、一定要进它的群，重要通知都在里面发，例如玩家数据迁移等！群号在注册消息里`
 
-腐竹吐槽：我编辑文档的时候你抄我的内容是吧（
+腐竹吐槽：你别再改我的文档了啊！！
+此部分 Mike (C) All Rights Reserved.
 
 \*绝大多数时候
