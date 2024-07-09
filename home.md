@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2024-07-09T00:33:34.348Z
+date: 2024-07-09T00:54:51.959Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-19T14:55:39.532Z
@@ -26,7 +26,7 @@ dateCreated: 2024-03-19T14:55:39.532Z
 
 > 联合服务器
 >
->『一定到页面底下看看百人服 是真不错（店员声）』
+>[『一定到页面底下看看百人服 是真不错（店员声）』](https://wiki.vteamer.cc/#%E8%81%94%E5%90%88%E6%9C%8D%E5%8A%A1%E5%99%A8-%E7%99%BE%E4%BA%BA%E6%9C%8D)
 {.is-warning}
 
 
