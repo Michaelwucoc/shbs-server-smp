@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2024-07-09T00:17:07.793Z
+date: 2024-07-09T00:17:42.174Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-19T14:55:39.532Z
@@ -27,7 +27,7 @@ dateCreated: 2024-03-19T14:55:39.532Z
 > 联合服务器
 >
 >『一定到页面底下看看百人服 是真不错（店员声）』
-{.is-danger}
+{.is-warning}
 
 >简幻云
 >
