@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2024-07-09T03:36:48.824Z
+date: 2024-07-10T02:11:51.864Z
 tags: locked
 editor: markdown
 dateCreated: 2024-03-19T14:55:39.532Z
@@ -10,9 +10,11 @@ dateCreated: 2024-03-19T14:55:39.532Z
 
 # 欢迎来到MILK SERVER SMP
 
-> 加入我们的QQ群: [https://qm.qq.com/q/yeZcjLdmw2](https://qm.qq.com/q/yeZcjLdmw2)
-{.is-info}
 
+> 加入我们的QQ群: [651137927 点击直接加入](https://qm.qq.com/q/yeZcjLdmw2)
+> 加入我的合作服务器: [563584770 点击直接加入](https://qm.qq.com/q/4Lnojo2Hm8)
+> 查看合作服务器简介 [点击](#推广)
+{.is-warning}
 
 
 > 购买Milk服务器同款云! 享受新人优惠
@@ -65,4 +67,19 @@ BE `mc.vteamer.cc:27929`
 
 
 ---
+# 推广
+AuroraGalaxy大型生存服务器-附属特殊玩法服开服啦！
+
+服务端：mohist（Forge+Bukkit）
+客户端版本：Forge1.20.1
+服务器地址：play.starchase.top
+服务器地址（备用）：d.rainplay.cn:53179
+官网地址：https://www.starchase.top
+开服时间：2024/7/6 16:50:00
+
+mod包位于群文件中，玩家可自行下载使用，mod包会定期进行更新，请各位玩家留意群内消息
+
+mod包不包含优化和功能mod，如果您需要，可以等待腐竹整合，整合完毕后会统一上传至群文件
+
+本次的特殊玩法服务器我们采用最高端的配置，保证服务器的稳定运行。采用mod+插件的方式，增加游戏玩法的同时满足玩家之间的各种需求。
 
