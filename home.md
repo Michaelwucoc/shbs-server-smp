@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2024-07-10T02:12:11.198Z
+date: 2024-07-10T04:39:40.437Z
 tags: locked
 editor: markdown
 dateCreated: 2024-03-19T14:55:39.532Z
@@ -26,9 +26,6 @@ dateCreated: 2024-03-19T14:55:39.532Z
 > https://github.com/Michaelwucoc/shbs-server-smp
 {.is-info}
 
-> 联合服务器
->[『点击看看百人服 是真不错（店员声）』](https://wiki.vteamer.cc/zh/ads/mike-brown-server)
-{.is-info}
 
 
 # 简介
