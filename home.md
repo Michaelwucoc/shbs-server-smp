@@ -2,13 +2,16 @@
 title: 主页
 description: 
 published: true
-date: 2024-07-10T04:39:40.437Z
+date: 2024-07-10T08:58:12.158Z
 tags: locked
 editor: markdown
 dateCreated: 2024-03-19T14:55:39.532Z
 ---
 
 # 欢迎来到MILK SERVER SMP
+
+## 置顶头条
+[逆天Moon月门事件](/news/240710)
 
 
 > 加入我们的QQ群: [651137927 点击直接加入](https://qm.qq.com/q/yeZcjLdmw2)
