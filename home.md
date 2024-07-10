@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2024-07-10T08:58:12.158Z
+date: 2024-07-10T12:38:20.819Z
 tags: locked
 editor: markdown
 dateCreated: 2024-03-19T14:55:39.532Z
@@ -15,8 +15,6 @@ dateCreated: 2024-03-19T14:55:39.532Z
 
 
 > 加入我们的QQ群: [651137927 点击直接加入](https://qm.qq.com/q/yeZcjLdmw2)
-> 加入我的合作服务器: [563584770 点击直接加入](https://qm.qq.com/q/4Lnojo2Hm8)
-> 查看合作服务器简介 [点击](#推广)
 {.is-warning}
 
 
@@ -68,6 +66,8 @@ BE `mc.vteamer.cc:27929`
 
 ---
 # 推广
+> 加入我的合作服务器: [563584770 点击直接加入](https://qm.qq.com/q/4Lnojo2Hm8)
+
 AuroraGalaxy大型生存服务器-附属特殊玩法服开服啦！
 
 服务端：mohist（Forge+Bukkit）
