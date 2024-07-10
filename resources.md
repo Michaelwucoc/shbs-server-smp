@@ -2,7 +2,7 @@
 title: 资源下载
 description: 
 published: true
-date: 2024-07-10T09:08:31.734Z
+date: 2024-07-10T09:11:24.340Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-18T14:27:17.206Z
@@ -19,8 +19,8 @@ dateCreated: 2024-04-18T14:27:17.206Z
 ## VoiceChat
 服务器必须的语音聊天模组
 
-> 前往 https://legacy.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/all
-{.is-info}
+> 前往 https://modrinth.com/plugin/simple-voice-chat/versions
+{.is-danger}
 
 
 ## Sodium
