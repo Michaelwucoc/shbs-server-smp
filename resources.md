@@ -2,7 +2,7 @@
 title: 资源下载
 description: 
 published: true
-date: 2024-07-10T09:11:24.340Z
+date: 2024-07-10T09:43:29.458Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-18T14:27:17.206Z
@@ -16,10 +16,16 @@ dateCreated: 2024-04-18T14:27:17.206Z
 {.is-info}
 
 # Mods
-## VoiceChat
+## [推荐]VoiceChat
 服务器必须的语音聊天模组
 
 > 前往 https://modrinth.com/plugin/simple-voice-chat/versions
+{.is-danger}
+
+## [推荐]ZMusic
+服务器必须的点歌模组
+
+> 前往 https://github.com/RealHeart/ZMusic-Mod/releases/tag/v3.2.0
 {.is-danger}
 
 
