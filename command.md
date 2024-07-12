@@ -2,7 +2,7 @@
 title: 服务器指令
 description: 
 published: true
-date: 2024-07-12T06:56:51.120Z
+date: 2024-07-12T06:57:48.034Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-20T14:23:28.430Z
@@ -204,7 +204,7 @@ dateCreated: 2024-03-20T14:23:28.430Z
 | /fp hold      | 手持对应快捷栏物品 |                         |
 | /fp cmd       | 让假人执行命令   | 不给权限的情况下，允许执行配置文件里定义的命令 |
 
-# 照片 (删除了)
+# 照片 
 查看照片信息 `/image describe` 
 导入照片 `/image download <链接> <文件名>`
 列出可用的照片 `/image list`
