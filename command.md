@@ -2,7 +2,7 @@
 title: 服务器指令
 description: 
 published: true
-date: 2024-07-12T06:57:48.034Z
+date: 2024-07-12T07:17:20.080Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-20T14:23:28.430Z
@@ -206,7 +206,7 @@ dateCreated: 2024-03-20T14:23:28.430Z
 
 # 照片 
 查看照片信息 `/image describe` 
-导入照片 `/image download <链接> <文件名>`
+导入照片 `/image download "<链接>" <文件名>`
 列出可用的照片 `/image list`
 放置照片 `/image place <文件名> <大小>`
 查看排行榜 `/image top`
@@ -214,6 +214,7 @@ dateCreated: 2024-03-20T14:23:28.430Z
 前往 https://photo.shbsme.top 上传照片
 ![](https://photo.shbsme.top/i/2024/04/28/662dfad80d3bc.png)
 复制URL，在游戏内使用导入照片指令，URL填写复制的链接。 文件名不要重复！
+请注意在URL加上""
 
 
 
