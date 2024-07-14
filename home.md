@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2024-07-11T23:04:38.756Z
+date: 2024-07-14T09:28:25.176Z
 tags: locked
 editor: markdown
 dateCreated: 2024-03-19T14:55:39.532Z
@@ -39,7 +39,7 @@ MILK SMP 是由 **Michaelwucoc** 发起的公益项目，为了给予玩家们�
 
 服务器目前进入了**第四周目**
 
-服务器目前已经有 `59` 名玩家
+服务器目前已经有 `77` 名玩家
 
 如果你想赞助我们，请在QQ群内发送`support`获取赞助二维码，赞助后可以向管理员索要特权。
 
